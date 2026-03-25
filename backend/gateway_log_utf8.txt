@@ -1,0 +1,199 @@
+﻿[90m2026-03-18T18:59:57.540+05:30[39m [35m[canvas][39m [36mhost mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root C:\Users\91623\.openclaw\canvas)[39m
+[90m2026-03-18T18:59:57.637+05:30[39m [36m[heartbeat][39m [36mstarted[39m
+[90m2026-03-18T18:59:57.646+05:30[39m [32m[health-monitor][39m [36mstarted (interval: 300s, startup-grace: 60s, channel-connect-grace: 120s)[39m
+[90m2026-03-18T18:59:57.654+05:30[39m [36m[gateway][39m [36magent model: anthropic/claude-opus-4-6[39m
+[90m2026-03-18T18:59:57.656+05:30[39m [36m[gateway][39m [36mlistening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 19164)[39m
+[90m2026-03-18T18:59:57.660+05:30[39m [36m[gateway][39m [36mlog file: \tmp\openclaw\openclaw-2026-03-18.log[39m
+[90m2026-03-18T18:59:57.702+05:30[39m [36m[browser/server][39m [36mBrowser control listening on http://127.0.0.1:18791/ (auth=token)[39m
+[90m2026-03-18T18:59:57.706+05:30[39m [31m[gateway/channels][39m [36mskipping channel start (OPENCLAW_SKIP_CHANNELS=1 or OPENCLAW_SKIP_PROVIDERS=1)[39m
+node : [90m2026-03-
+18T19:04:03.240+05:3
+0[39m [31m[diagnos
+tic][39m [31mlane 
+task error: 
+lane=main 
+durationMs=11 
+error="Error: No 
+API key found for 
+provider 
+"anthropic". Auth 
+store: C:\Users\9162
+3\.openclaw\agents\m
+ain\agent\auth-profi
+les.json (agentDir: 
+C:\Users\91623\.open
+claw\agents\main\age
+nt). Configure auth 
+for this agent 
+(openclaw agents 
+add <id>) or copy 
+auth-profiles.json 
+from the main 
+agentDir."[39m
+At line:10 char:261
++ ... w\openclaw; 
+node openclaw.mjs 
+gateway > C:\Users\9
+1623\Desktop\EOXS\T 
+...
++                 ~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+    + CategoryInfo  
+            : 
+NotSpecified    : 
+([90m2026-03-18.   
+ 
+..agentDir."[39m:S 
+   tring) [], 
+RemoteEx    ception
+    + 
+FullyQualifiedErr   
+ orId : 
+NativeComman    
+dError
+ 
+[90m2026-03-18T19:0
+4:03.243+05:30[39m 
+[31m[diagnostic][3
+9m [31mlane task 
+error: lane=session:
+agent:main:openai:18
+795eb8-1daf-4e23-b20
+d-635bc2c5984e 
+durationMs=66 
+error="Error: No 
+API key found for 
+provider 
+"anthropic". Auth 
+store: C:\Users\9162
+3\.openclaw\agents\m
+ain\agent\auth-profi
+les.json (agentDir: 
+C:\Users\91623\.open
+claw\agents\main\age
+nt). Configure auth 
+for this agent 
+(openclaw agents 
+add <id>) or copy 
+auth-profiles.json 
+from the main 
+agentDir."[39m
+[90m2026-03-18T19:0
+4:03.255+05:30[39m 
+[34m[model-fallback
+/decision][39m 
+[33mmodel fallback 
+decision: decision=c
+andidate_failed requ
+ested=anthropic/clau
+de-opus-4-6 candidat
+e=anthropic/claude-o
+pus-4-6 reason=auth 
+next=none[39m
+[90m2026-03-18T19:0
+4:03.259+05:30[39m 
+[34m[openai-compat]
+[39m [33mchat 
+completion failed: 
+FailoverError: No 
+API key found for 
+provider 
+"anthropic". Auth 
+store: C:\Users\9162
+3\.openclaw\agents\m
+ain\agent\auth-profi
+les.json (agentDir: 
+C:\Users\91623\.open
+claw\agents\main\age
+nt). Configure auth 
+for this agent 
+(openclaw agents 
+add <id>) or copy 
+auth-profiles.json 
+from the main 
+agentDir.[39m
+[90m2026-03-18T19:1
+0:53.899+05:30[39m 
+[31m[diagnostic][3
+9m [31mlane task 
+error: lane=main 
+durationMs=7 
+error="Error: No 
+API key found for 
+provider 
+"anthropic". Auth 
+store: C:\Users\9162
+3\.openclaw\agents\m
+ain\agent\auth-profi
+les.json (agentDir: 
+C:\Users\91623\.open
+claw\agents\main\age
+nt). Configure auth 
+for this agent 
+(openclaw agents 
+add <id>) or copy 
+auth-profiles.json 
+from the main 
+agentDir."[39m
+[90m2026-03-18T19:1
+0:53.900+05:30[39m 
+[31m[diagnostic][3
+9m [31mlane task 
+error: lane=session:
+agent:main:openai:4d
+addf59-ca78-4cd4-aeb
+f-d9d8d603a34e 
+durationMs=11 
+error="Error: No 
+API key found for 
+provider 
+"anthropic". Auth 
+store: C:\Users\9162
+3\.openclaw\agents\m
+ain\agent\auth-profi
+les.json (agentDir: 
+C:\Users\91623\.open
+claw\agents\main\age
+nt). Configure auth 
+for this agent 
+(openclaw agents 
+add <id>) or copy 
+auth-profiles.json 
+from the main 
+agentDir."[39m
+[90m2026-03-18T19:1
+0:53.902+05:30[39m 
+[34m[model-fallback
+/decision][39m 
+[33mmodel fallback 
+decision: decision=c
+andidate_failed requ
+ested=anthropic/clau
+de-opus-4-6 candidat
+e=anthropic/claude-o
+pus-4-6 reason=auth 
+next=none[39m
+[90m2026-03-18T19:1
+0:53.904+05:30[39m 
+[34m[openai-compat]
+[39m [33mchat 
+completion failed: 
+FailoverError: No 
+API key found for 
+provider 
+"anthropic". Auth 
+store: C:\Users\9162
+3\.openclaw\agents\m
+ain\agent\auth-profi
+les.json (agentDir: 
+C:\Users\91623\.open
+claw\agents\main\age
+nt). Configure auth 
+for this agent 
+(openclaw agents 
+add <id>) or copy 
+auth-profiles.json 
+from the main 
+agentDir.[39m

@@ -1,0 +1,5973 @@
+﻿python
+python---version
+python --version
+python---version : The term 'python---version' is not recognized as the name of a cmdlet, function, script file, or
+operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try
+again.
+At line:1 char:1
++ python---version
++ ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (python---version:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+pip --version
+& "C:/Program Files/Python310/python.exe" "c:/Users/91623/.vscode/chapter 1/01_rajveer.py"
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.13.9-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-v2dgoois.oqn' '--stdout=Microsoft-MIEngine-Out-35zxf2td.a2w' '--stderr=Microsoft-MIEngine-Error-2b2apvfb.lpx' '--pid=Microsoft-MIEngine-Pid-0szge5zg.dm5' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.13.9-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-dh0zyhfp.nsq' '--stdout=Microsoft-MIEngine-Out-drh2aoua.lco' '--stderr=Microsoft-MIEngine-Error-l1n5cmhz.dt1' '--pid=Microsoft-MIEngine-Pid-ka3dhbm5.fpw' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.13.9-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-ehcm21bp.0ky' '--stdout=Microsoft-MIEngine-Out-2nvjuqlj.ryo' '--stderr=Microsoft-MIEngine-Error-u4eepmru.3eu' '--pid=Microsoft-MIEngine-Pid-hyobg0tg.2hr' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.13.9-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-yziv45gj.rqn' '--stdout=Microsoft-MIEngine-Out-mr5gfv1i.sps' '--stderr=Microsoft-MIEngine-Error-fwn550jj.uo4' '--pid=Microsoft-MIEngine-Pid-2bszjstw.x3h' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.13.9-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-hpm3es5f.wbh' '--stdout=Microsoft-MIEngine-Out-4vpenh32.xbf' '--stderr=Microsoft-MIEngine-Error-ivxjeajk.5ov' '--pid=Microsoft-MIEngine-Pid-obuuyxrj.hpo' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.13.9-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-ell2bmah.2uw' '--stdout=Microsoft-MIEngine-Out-pchn32ec.uen' '--stderr=Microsoft-MIEngine-Error-btcrrvay.ocd' '--pid=Microsoft-MIEngine-Pid-gfhiyhft.bnv' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-qi0510qn.2n2' '--stdout=Microsoft-MIEngine-Out-ninq5xwu.b5x' '--stderr=Microsoft-MIEngine-Error-mq3y2fvu.2pe' '--pid=Microsoft-MIEngine-Pid-1qnfei5d.zsp' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-esvrowqc.efh' '--stdout=Microsoft-MIEngine-Out-y5c3ocgq.1uo' '--stderr=Microsoft-MIEngine-Error-4oryoahe.1d5' '--pid=Microsoft-MIEngine-Pid-wkph31du.23s' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+clear
+dir
+cd .\.vscode\
+dir
+clear
+cd '.\C language\'
+ls
+gcc
+gcc 01.c -o p.exe
+dir
+clear
+./p.exe
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-jq21wvfl.fhx' '--stdout=Microsoft-MIEngine-Out-1fqbkvme.idd' '--stderr=Microsoft-MIEngine-Error-hf10mnx0.spb' '--pid=Microsoft-MIEngine-Pid-a054kcc1.dqe' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+clear
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+  & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-jxig3cmr.huc' '--stdout=Microsoft-MIEngine-Out-ij1bf1ss.iiu' '--stderr=Microsoft-MIEngine-Error-xbx3cfmk.fmk' '--pid=Microsoft-MIEngine-Pid-14oilcdp.b2l' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+clear
+cd .\.vscode\q
+cd .\.vscode\
+cd '.\C language\'
+clear
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+41
+./jass.exe
+Factorial of 25 is: 2076180480
+./jass.exe
+clear
+Factorial of 25 is: 2076180480
+clear
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+clear
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+gcc 01.c -o jass.exe
+./jass.exe
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-g0exweum.4rl' '--stdout=Microsoft-MIEngine-Out-y3ltwut2.icy' '--stderr=Microsoft-MIEngine-Error-wwl150gl.aio' '--pid=Microsoft-MIEngine-Pid-arxfp5dn.sri' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-b0zzzyar.1bf' '--stdout=Microsoft-MIEngine-Out-o1pfzsxy.kxo' '--stderr=Microsoft-MIEngine-Error-wxsoecyi.jwh' '--pid=Microsoft-MIEngine-Pid-ba0afc3i.eks' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-dsnjp32m.ux1' '--stdout=Microsoft-MIEngine-Out-yprz4cg0.5uf' '--stderr=Microsoft-MIEngine-Error-5prjfzze.dvn' '--pid=Microsoft-MIEngine-Pid-ftngl1jh.wth' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-v5d2d5bh.qrk' '--stdout=Microsoft-MIEngine-Out-mbruiwem.4eq' '--stderr=Microsoft-MIEngine-Error-oanqxign.azl' '--pid=Microsoft-MIEngine-Pid-zshgqhys.f05' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-csyuxvab.o2g' '--stdout=Microsoft-MIEngine-Out-4emitldr.h5i' '--stderr=Microsoft-MIEngine-Error-ijestxzw.uoc' '--pid=Microsoft-MIEngine-Pid-44p315hf.y2l' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+gcc check.c -o jass.exe
+dir
+cd .\.vscode\
+cd '.\C language\'
+gcc check.c -o jass.exe
+.\jass.exe
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-1cly1iyy.fzi' '--stdout=Microsoft-MIEngine-Out-jscm3zie.syy' '--stderr=Microsoft-MIEngine-Error-2z2miczs.e4t' '--pid=Microsoft-MIEngine-Pid-atzv3b03.u5m' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+dir
+cd .\.vscode\
+cd '.\C language\'
+gcc .\aisehi.c -o jass.exe
+jass.exe
+.\jass.exe
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-4yzzzril.ldu' '--stdout=Microsoft-MIEngine-Out-cxpecwfd.1xh' '--stderr=Microsoft-MIEngine-Error-vcc2tugk.dr5' '--pid=Microsoft-MIEngine-Pid-hiv11xgm.4it' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-p4rn543b.kes' '--stdout=Microsoft-MIEngine-Out-4ezggfvl.2rb' '--stderr=Microsoft-MIEngine-Error-4ye23bnv.oy5' '--pid=Microsoft-MIEngine-Pid-ccigvnlb.lez' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-53rswkmf.oe4' '--stdout=Microsoft-MIEngine-Out-c5n2crxp.clw' '--stderr=Microsoft-MIEngine-Error-wga445nk.1zs' '--pid=Microsoft-MIEngine-Pid-xm5vygmk.j4g' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+cd .\.vscode\ c language
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-tcbkkroa.qev' '--stdout=Microsoft-MIEngine-Out-ewmihy0c.wby' '--stderr=Microsoft-MIEngine-Error-4nlnrpil.44u' '--pid=Microsoft-MIEngine-Pid-pzfhku04.ah4' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+cd '.\.vscode\C language\ aisehi.c jass.exe'
+gcc .\aisehi.c 
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-r2vekkm5.rml' '--stdout=Microsoft-MIEngine-Out-ezdxqnyr.hdh' '--stderr=Microsoft-MIEngine-Error-ds03rizs.zci' '--pid=Microsoft-MIEngine-Pid-qtmoza12.hur' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+cd .\.vscode\ .C language aisehi.c jass.exe 
+.\jass.exe
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-fgdzvrhj.yxx' '--stdout=Microsoft-MIEngine-Out-vq1qvw3h.ygb' '--stderr=Microsoft-MIEngine-Error-ti03m1hq.qiy' '--pid=Microsoft-MIEngine-Pid-gwdw23h4.fsk' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+gcc 01.c -0 jass.exe 
+cd '.\.vscode\C language\'
+gcc 01.c -0 jass.exe 
+gcc 01.c -o jass.exe 
+.\jass.exe
+gcc 01_C.c -o jassi.exe
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-gkdk3vf0.jt1' '--stdout=Microsoft-MIEngine-Out-4iiezvy2.yrt' '--stderr=Microsoft-MIEngine-Error-1l3ybr0b.z3k' '--pid=Microsoft-MIEngine-Pid-bwuey1xy.c43' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+cd .vscode
+cd '.\.vscode\C language\'
+gcc 01_C.c -o jassi.exe
+.\jassi.exe
+gcc 01_C.c -o jassi.exe
+.\jassi.exe
+gcc 01_C.c -o jassi.exe
+.\jassi.exe
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc 01_C.c -o 01_C } ; if ($?) { .\01_C }
+19
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc 01_C.c -o 01_C } ; if ($?) { .\01_C }
+18
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc 01_C.c -o 01_C } ; if ($?) { .\01_C }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc 01.c -o 01 } ; if ($?) { .\01 }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc b.c -o b } ; if ($?) { .\b }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc c.c -o c } ; if ($?) { .\c }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc a.c -o a } ; if ($?) { .\a }
+ cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc c.c -o c } ; if ($?) { .\c }
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-1r1efwlp.yw0' '--stdout=Microsoft-MIEngine-Out-jd13umnv.qba' '--stderr=Microsoft-MIEngine-Error-1e521dxy.wfi' '--pid=Microsoft-MIEngine-Pid-vydiixud.yfu' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc c.c -o c } ; if ($?) { .\c }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc c.c -o c } ; if ($?) { .\c }
+56
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc c.c -o c } ; if ($?) { .\c }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc d.c -o d } ; if ($?) { .\d }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc c.c -o c } ; if ($?) { .\c }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc d.c -o d } ; if ($?) { .\d }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc c.c -o c } ; if ($?) { .\c }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc d.c -o d } ; if ($?) { .\d }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc e.c -o e } ; if ($?) { .\e }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc f.c -o f } ; if ($?) { .\f }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc e.c -o e } ; if ($?) { .\e }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc g.c -o g } ; if ($?) { .\g }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc h.c -o h } ; if ($?) { .\h }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc i.c -o i } ; if ($?) { .\i }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc ds.c -o ds } ; if ($?) { .\ds }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc i.c -o i } ; if ($?) { .\i }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc ds.c -o ds } ; if ($?) { .\ds }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc i.c -o i } ; if ($?) { .\i }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc ds.c -o ds } ; if ($?) { .\ds }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc i.c -o i } ; if ($?) { .\i }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc j.c -o j } ; if ($?) { .\j }
+5
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc j.c -o j } ; if ($?) { .\j }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc b.c -o b } ; if ($?) { .\b }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc as.c -o as } ; if ($?) { .\as }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc h.c -o h } ; if ($?) { .\h }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc as.c -o as } ; if ($?) { .\as }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc j.c -o j } ; if ($?) { .\j }
+7
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc as.c -o as } ; if ($?) { .\as }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc a.c -o a } ; if ($?) { .\a }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc b.c -o b } ; if ($?) { .\b }
+34
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc b.c -o b } ; if ($?) { .\b }
+ & 'c:\Users\91623\.vscode\extensions\ms-vscode.cpptools-1.14.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-tu4tyuhr.ejm' '--stdout=Microsoft-MIEngine-Out-0v310ebx.nva' '--stderr=Microsoft-MIEngine-Error-tfid5xdr.fil' '--pid=Microsoft-MIEngine-Pid-oactudqm.xz5' '--dbgExe=C:\TDM-GCC-64\bin\gdb.exe' '--interpreter=mi' 
+clear
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc b.c -o b } ; if ($?) { .\b }
+\cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc b.c -o b } ; if ($?) { .\b }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc b.c -o b } ; if ($?) { .\b }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc k.c -o k } ; if ($?) { .\k }
+4
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc k.c -o k } ; if ($?) { .\k }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc l.c -o l } ; if ($?) { .\l }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc timepass.c -o timepass } ; if ($?) { .\timepass }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc timepass1.c -o timepass1 } ; if ($?) { .\timepass1 }
+clear
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc timepass2.c -o timepass2 } ; if ($?) { .\timepass2 }
+ clear
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc timepass2.c -o timepass2 } ; if ($?) { .\timepass2 }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc m.c -o m } ; if ($?) { .\m }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc mtimepass.c -o mtimepass } ; if ($?) { .\mtimepass }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc timepass2.c -o timepass2 } ; if ($?) { .\timepass2 }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc mtimepass.c -o mtimepass } ; if ($?) { .\mtimepass }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc tempCodeRunnerFile.c -o tempCodeRunnerFile } ; if ($?) { .\tempCodeRunnerFile }
+clear
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc n.c -o n } ; if ($?) { .\n }
+ clear
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc n.c -o n } ; if ($?) { .\n }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc timepass3.c -o timepass3 } ; if ($?) { .\timepass3 }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc n.c -o n } ; if ($?) { .\n }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc timepass3.c -o timepass3 } ; if ($?) { .\timepass3 }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc f.c -o f } ; if ($?) { .\f }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc timepass3.c -o timepass3 } ; if ($?) { .\timepass3 }
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc exam1.c -o exam1 } ; if ($?) { .\exam1 }
+cd 'c:\Users\91623\Desktop\output'
+& .\'1.exe'
+cd 'c:\Users\91623\Desktop\output'
+& .\'1.exe'
+cd 'c:\Users\91623\Desktop\output'
+& .\'1.exe'
+cd 'c:\Users\91623\Desktop\output'
+& .\'1.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'2.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'2.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'2.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'2.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'2.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'1.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'3.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'4.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'4.exe'
+33
+3
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'4.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'4.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'4.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'4.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'4.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'5.exe'
+2
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'5.exe'
+44
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'5.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'5.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'6.exe'
+clear
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'6.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'6.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'5.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'5.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'4.exe'
+cd 'c:\Users\91623\Desktop\C++\output'
+& .\'4.exe'
+cd "c:\Users\91623\.vscode\.vscode\C language\" ; if ($?) { gcc n.c -o n } ; if ($?) { .\n }clear
+& .\'3.exe'
+gcc 01_C.c -o jassi.exe  clear
+clear
+g++
+clear
+g++  .\3.cpp
+g++ 5.cpp
+& .\a.exe
+5
+g++ 5.cpp
+.a\.exe
+4
+clear
+ git clone https://github.com/metaladmiral/Dr.Foodie.git
+git config --global user.email "JASKEERATSINGH219@GMAIL.COM"
+ git clone https://github.com/metaladmiral/Dr.Foodie.git
+git init
+clear
+git add .
+git commit -m "FIRST COMMIT"
+git remote add origin https://github.com/ijassandhu/ijassandhu.github.io.git
+git status
+git push -u origin main
+clear
+git clone https://github.com/metaladmiral/Dr.Foodie.git
+cd .\Dr.Foodie\
+ls
+git remote add origin https://github.com/ijassandhu/ijassandhu.github.io.git
+git remote set origin https://github.com/ijassandhu/ijassandhu.github.io.git
+git remote set-url origin https://github.com/ijassandhu/ijassandhu.github.io.git
+clear
+git status
+git add .
+git commit -m "asd"
+git remote -v
+git pull
+git push -u origin main
+git pull
+clear
+git remote -v
+cd .git
+ls
+cd ..
+ls
+clear
+git remote -v
+git remote set-url git remote add origin https://github.com/ijassandhu/ijassandhu.github.io.git
+git remote set-url origin https://github.com/ijassandhu/ijassandhu.github.io.git
+git status
+git pull
+git add .
+git status
+git pull
+claer
+clear
+git init
+git statu
+git status
+mkdir foodie
+clear
+clear
+git init
+git remote add origin https://github.com/ijassandhu/ijassandhu.github.io.git
+git add .
+git commit -m "INIT COMMIT"
+git push
+git push -u origin main
+npm init
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init`
+
+npm run start
+npm i
+npm run dev
+npm run start
+npm install
+npm fund
+npm install vite
+npm run start
+npm init -y
+npm install -D tailwindcss postcss autoprefixer
+npm install init
+vite install init
+npm install vite
+npx tailwind css init -p
+npx tailwindcss -p
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+npx tailwindcss init -y
+npx tailwindcss -y init
+npm run start
+npx tailwindcss init -p
+npm install vite
+npm run start
+npm rum start
+npn run stop
+npm run start
+h
+npm run start
+h
+npm run start
+npm install tailwind
+npm run start
+npm install tailwindcss
+npm run start
+npm install -D tailwindcss
+npx tailwind init
+npx tailwind init -y
+npm  install vite
+npx tailwindcss init -p
+npm init -y
+npm install vite
+npm run start
+npx taiwindcss init -p
+npm install -D tailwindcss
+npx tailwind init -p
+npx tailwindcss init -p
+npm init -y
+npx tailwind initcss -p
+npm init -y
+npm install vite
+npm fund
+npm run start
+npx tailwindcss init -p
+npm run start
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+npx tailwindcss init -y
+npm tailwindcss init -y
+npm  init -y
+npm tailwindcss init -p
+npx tailwindcss init -p
+npm install vite
+npm run start
+npm i
+npm run start
+npm i
+npm run start
+npm i
+npm run start
+npm run dev
+npm run
+npm run dev
+npm 
+npm run
+npm run start
+npm install -D tailwindcss
+npx tailwindcss init
+npx tailwindcss init -p
+npm init -y
+npm run start
+node main.js
+node
+npm install
+cd 01-js
+node
+npm intall
+npm i
+npm install axios
+node "c:\Users\91623\Desktop\Web Development\main.js"
+node .main.js
+node .\node.js
+node .\main.js
+node .\main.js
+ipm init -y
+npm init -y
+npm install express
+node "c:\Users\91623\Desktop\cohort\index.js"
+node index.js
+npm install express
+node "c:\Cohort\index.js"
+npm install express
+node index.js
+clesar
+clear
+cd .\express-class\
+npm intall express
+node index.js
+npm install express
+node index.js
+cd .\express-class\
+node index.js
+cd .\express-class\
+node index.js
+cd .\express-class\
+node index.js
+cd .\express-class\
+node index.js
+node "c:\Cohort\express-class\index.js"
+node index.js
+node "c:\Cohort\express-class\index.js"
+cd .\express-class\
+ndoe index.js
+node index.js
+node "c:\Cohort\express-class\index.js"
+node "c:\Cohort\express-class\user.js"
+cd .\express-class\
+node index.js
+cd .\express-class\
+node user.js
+.\express-class\
+cd .\express-class\
+node user.js
+node "c:\Cohort\express-class\user.js"
+cd .\express-class\
+node user.js
+node "c:\Cohort\express-class\user.js"
+node "c:\Cohort\express-class\tempCodeRunnerFile.js"
+cd .\express-class\
+node user.js
+cd .\express-class\
+node index.js
+node "c:\Cohort\express-class\user.js"
+cd .\express-class\
+node user.js
+node "c:\Cohort\express-class\user.js"
+cd .\express-class\
+node user.js
+node "c:\Cohort\express-class\user.js"
+node user.js
+killall node
+npx
+node "c:\Cohort\express-class\practice.js"
+cd .\express-class\
+node user.js
+index.js
+node index.js
+.\express-class\
+cd .\express-class\
+node practice.js
+cd .\express-class\
+node index.js
+cd .\express-class\
+node practice.js
+clear
+node practice.js
+cd .\express-class\
+node practice.js
+cls
+node practice.js
+cd .\express-class\
+node practice.js
+node "c:\Cohort\express-class\practice.js"
+node "c:\Cohort\express-class\user.js"
+node "c:\Cohort\ijassandhu.js"
+cd .\express-class\
+node practice.js
+nd
+node 
+node practice.js
+.\express-class\
+cd .\express-class\
+node ijassandhu.js
+cd ..
+cd..
+npm install -g nodemon
+nodemon ijassandhu.js
+nodemon run ijassandhu.js
+c\cd .\Cohort\express-class\
+\cd .\Cohort\express-class\
+cd .\Cohort\express-class\
+nodemon ijassandhu.js
+.\node_modules\
+cd..
+nodemon ijassandhu.js
+npm init -y
+nodemon ijassandhu.js
+Set-ExecutionPolicy Unrestricted
+nodemon ijassandhu.js
+Get-ExecutionPolicy
+cd .\express-class\
+git init
+git status
+git add .
+git status
+git commit -m "changes"
+git status
+node install json
+cd weel-3/01-middlewares
+npm install
+cd .\week-3\
+.\01-middlewares\01-requestcount.js
+node run .\01-middlewares\
+node .\01-middlewares\`
+
+node .\01-middlewares\
+cd .\01-middlewares\tests\
+node .\01-requestcount.js
+node run .\01-requestcount.js
+node .\01-requestcount.js
+npx jest .\01-requestcount.spec.js
+npm install jest
+npx jest .\01-requestcount.spec.js
+cd .\express-class\
+npm install zod
+cd .\Desktop\
+mkdir react
+touch index.js
+cd .\Desktop\react\
+npm create vite@latest
+npm install
+npm run dev 
+ npm run dev
+npm install dev
+npm run dev
+npm run
+npm install dev -g
+npm run dev
+cd .\react-project\
+npm install
+npm run dev
+node index.js
+cd .\assignments-master\week-3\
+node index.js
+cd .\03-mongo\
+cd .\db\
+node index.js
+node "c:\Users\91623\Desktop\assignments-master\assignments-master\week-3\03-mongo\db\index.js"
+node index.js
+node "c:\Users\91623\Desktop\assignments-master\assignments-master\week-3\03-mongo\db\index.js"
+npm install mongoose
+node index.js
+cd .\assignments-master\week-3\
+cd .\03-mongo\
+cd .\db\
+node index.js
+npm install
+node index.js
+npm run
+node index.js
+npm i
+node index.js
+cd .\assignments-master\week-3\
+cd .\03-mongo\
+cd .\db\
+node index.js
+node "c:\Users\91623\Desktop\assignments-master\assignments-master\week-3\03-mongo\routes\admin.js"
+cd week4
+cd week3
+cd week-3
+cls
+dir
+cd .\assignments-master\
+ls
+cd .\week-3\
+node index
+npm run
+npm test
+clear
+node index
+cd .\03-mongo\
+node index.js
+npm install y
+cd .\assignments-master\week-3\
+cd .\03-mongo\
+node index.js
+clear
+node index.js
+npm index.js
+npm run
+node index.js
+npx run dev
+npx run
+npx run index.js
+npm install multer
+clear
+npm install multer
+npx run index.js
+node "c:\Users\91623\Desktop\assignments-master\assignments-master\week-3\03-mongo\routes\admin.js"
+node index.js
+cd .\Desktop\
+cd .\react\
+cd .\react-cohort\
+npm create vite@latest
+cd .\vite-project\
+npm i
+npm run dev
+npm i
+npm fund
+npm run dev
+npm run
+npm run dev
+npm i
+npm fund
+npm run dev
+run :
+rm -rf node_modules
+rm  node_modules
+npm i
+npm run dev
+sudo npm rum dev
+composer require laravel/ui --dev
+npm run dev
+npm start
+npm install -g
+npm run build
+npm init
+npm i
+npm init
+npm install -g npm@latest`
+
+npm install -g npm@latest
+npm init -y
+npm run dev
+npm i
+npm init
+ls
+clear
+npm -v
+ls
+clear
+npm run dev
+npm run
+npm dev
+npm start 
+npm run 
+npm run dev
+npm i
+npm run dev
+ls
+cd ..
+ls
+clear
+mkdir viteTestFile
+cd .\viteTestFile\
+ls
+clear
+vite 
+cd ..
+cd react
+vite
+vite run
+cd ..
+cd .\viteTestFile\
+ls
+vite build
+create-react-app
+create-react-app s
+npm create vite@latest
+cd hello
+npm i
+npm run dev
+npm i
+npm run dev
+cd ..
+cd .\viteTestFile\
+cd .\hello\
+npm run dev
+npm run ddev
+npm run dev
+npm i
+npm run dev
+cd .\hello\
+npm run dev
+npm run build
+npm run dev
+cd .\hello\
+npm run dev
+cd .\hello\
+npm run dev
+cd .\hello\
+npm run dev
+cd backend
+npm init -y
+npm install express
+npm intall zod
+yes
+npm install zod -y
+npm intall mongoose
+-y
+npm install mongoose
+node .\backend\index.js
+node "c:\Users\91623\Desktop\NEW-YEAR-APP\backend\tempCodeRunnerFile.js"
+nodemon
+nodemon inde
+nodemon index.js
+nodemon --help
+nodemon .\backend\index.js
+nodemone .\01-middlewares\
+node .\01-middlewares\index.js
+nodemon .\backend\index.js
+node "c:\Users\91623\Desktop\NEW-YEAR-APP\backend\db.js"
+cls
+cd .\03-mongo\
+nodemon .\index.js
+nodemon .\backend\index.js
+nodemon .\index.js
+nodemon .\backend\index.js
+npm install
+.\frontend\
+cd frontend
+npm install
+npm audit fix
+npm init -y
+npm install
+npm init -y
+npm run test
+npm install
+npm i
+npm i node-modules
+cd .\frontend\
+npm init -y
+npx create-next-app@latest
+cd .\frontend\
+npx create-next-app@latest
+npm install
+npm create vite@latest
+cd vite-project
+npm install
+npm run dev
+npm install dev
+npm run dev
+npm install
+npm run dev
+npm create vite@latest
+cd vite-project
+npm install
+npm run dev
+cd .\frontend\
+npm run dev
+cd..
+cd .\vite-project\
+npm run dev
+.\Desktop\
+clear
+cd .\Desktop\
+mkdir vite-project
+npm create vite@latest
+npm run dev
+npm install vite
+npm run dev
+npm install dev
+npm run dev
+cd .\vite-project\
+npm run dev
+cd .\assignments-master\week-6\
+npm install
+npm run dev
+npm run
+npm init -y
+nom insta;;
+npm install
+npm run dev
+npm start
+npm install
+npm run dev
+cd .\1-use-memo\
+npm install
+npm run dev
+npm install
+npm install react-router-dom
+npm run dev
+npm install
+npm run dev
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p
+npm install
+npm install -D tailwindcss postcss autoprefixer`
+npx tailwindcss init -p
+cd tailwind-prac
+cd tailwind -pra
+cd tailwinl-pra
+cd tailwind-pra
+npm install
+npm run dev
+npm install tailwind
+npx tailwindcss init
+npm run dev
+npx tailwindcss init -p
+npm start
+npm run 
+npm rub dev
+y
+npm run dev
+cd Paytm-clone
+npm install
+npm run dev
+npm install cores
+cd .\Desktop\
+ls
+mkdir Components
+cd .\Components\
+npm install tailwind
+npm install
+npm install -D tailwindcss`
+npx tailwindcss init
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+git add
+git status
+git init -b main
+git add
+$ git add
+$ git add .
+git add
+git add .
+git status
+git commit -m 'Added my portfolio'
+git
+git config --global user.name "Jaskeerat Singh"
+git config --global email "jaskeeratsingh219@gmail.com"
+git config --global user.email "jaskeeratsingh219@gmail.com"
+git config --global core.editor "code-wait"
+gut config --global core.autocrlf "input"
+gt config --global core.autocrlf "input"
+git config --global core.autocrlf "input"
+git config --global -e
+git config --global core.editor "code --wait"
+git config --global -e
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+clear
+3
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+npm init -y
+touch app.js
+npm install express
+npm i ejs
+npm i socket.io
+npx nodemon app.js
+git config --global ijassandhu
+git config --global Jaskeerat
+git config --global Jaskeerat Singh
+ls
+git config --global jaskeerat
+git config --global user.name Jaskeerat
+git config --global user.email jaskeeratsingh219@gmail.com
+git config --global core.editor "code --wait"
+git config --global core.autocrlf "input"
+git status -s
+git log --online
+git status -s
+git init
+git commit .
+git branch -M main
+git remote add origin https://`
+
+git remote add origin https://github.com/ijassandhu/Real-Time-Tracking
+git push -u origin main
+git remote add origin https://github.com/ijassandhu/Real-Time-Tracking
+clear
+Remove existing git:rm -rf .git
+ git:rm -rf .git
+rm -rf .git
+{Remove existing git:rm -rf .git}`
+
+git log --oneline
+git status -s
+rm -rf .git
+git status -s
+git push -u origin main
+git remote add origin https://github.com/ijassandhu/Real-Time-Tracking
+git push -u origin main
+git branch
+git checkout -b main
+git push -u origin main
+git remote -v
+git remote set-url origin https://github.com/ijassandhu/Real-Time-Tracking
+git pull origin main
+git push -u origin main
+git remote add origin https://github.com/ijassandhu/Real-Time-Tracking
+git branch -M main
+git push -u origin main
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/ijassandhu/Real-Time-Tracking
+git push -u origin main
+npx nodemon run
+npx nodemon start
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'main.exe'
+git init
+git remote add origin https://github.com/ijassandhu/DSA
+git push -u origin main
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ijassandhu/DSA
+git push -u origin main
+git remote add origin https://github.com/ijassandhu/DSA.git
+git push -u origin main
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ijassandhu/DSA.git
+git push -u origin main
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+3
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+4
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowrectangle.exe'
+git remote add origin https://github.com/ijassandhu/DSA.git
+git branch -M main
+git push -u origin main
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'halfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'halfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'halfpyramid.exe'
+7
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'halfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'halfpyramid.exe'
+git push -u origin main
+git branch -M main
+git push -u origin main
+git add .
+git branch -M main
+git push -u origin main
+git status
+git init
+git commit -m "second commit"
+git push -u origin main
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'halfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'invertedhalfpyramid.exe'
+6
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'invertedhalfpyramid.exe'
+3
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'invertedhalfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'numerichalfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'numerichalfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'numerichalfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'numerichalfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'numinvertedhalfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'fullpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'fullpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'fullpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowinvertedhalfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowinvertedhalfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowinvertedhalfpyramid.exe'
+git branch -M main
+git push -u origin main
+git add .
+git commit -m "third commit"
+rm *.exe
+git add .
+git commit -m "commit"
+git push origin main
+git remote -v
+git branch
+git log
+git status
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowinvertedhalfpyramid.exe'
+git init
+git add .
+git commit -m "updated"
+git branch -M main
+git remote origin https://github.com/ijassandhu/DSA
+git remote add origin https://github.com/ijassandhu/DSA
+git push -u  origin main
+cat .gitignore
+cat fullpyramid.cpp
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\output'
+& .\'hollowinvertedhalfpyramid.exe'
+ls
+cd 'c:\Users\91623\Desktop\confused\DSA(patterns)\Folder\output'
+& .\'invertedhollowhalfpyramid.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA(patterns)\Folder\output'
+& .\'invertedhollowhalfpyramid.exe'
+ git init
+git add .
+git commit -m "patterns"
+git branch -M main
+git remote add origin https://github.com/ijassandhu/DSA
+git push -u origin main
+rm *.exe
+git add .
+git commit -m "remove exe files"
+cd ..\
+cd .\output\.git\
+cat gitignore
+cd ..\
+cat .gitignore
+cat
+ls
+clear
+git status
+git init
+echo "# DSA" >> README.md`
+git init`
+git add .`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/DSA.git`
+git push -u origin main
+cd 'c:\Users\91623\Desktop\confused\DSA(patterns)\Folder\output'
+& .\'halfpyramid.exe'
+git status
+clear
+cd ..
+git init 
+clear
+echo "# DSA" >> README.md`
+git init`
+git add .`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/DSA.git`
+git push -u origin main
+git status
+git add .
+git commit -m "Fck u"
+git push
+clear
+git status
+git init
+cd 'c:\Users\91623\Desktop\confused\DSA(patterns)\Folder\output'
+& .\'halfpyramid.exe'
+clear
+git status
+git add .
+git status
+npm run dev
+npm install tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm run dev
+npx install -D tailwindcss
+npm install -D tailwindcss
+npx tailwindcss init
+npm run dev
+npx tailwindcss -i ./src/App.css -o ./src/output.css --watch
+npm run dev
+npm install -D tailwindcss
+npx tailwindcss init
+npm run start
+npm run dev
+npm install tailwindcss postcss-cli autoprefixer
+npx tailwindcss init
+npm run dev
+npm install -D tailwindcss`
+npx tailwindcss init
+npm run start
+npm run
+npm install
+npm install -D tailwindcss`
+npx tailwindcss init
+npm run start
+npm run dev
+npm run start
+npm run dev
+echo "# eventifyU" >> README.md`
+git init`
+git add .`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/eventifyU.git`
+git push -u origin main
+npm run dev
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons`
+npm i --save @fortawesome/free-regular-svg-icons`
+npm i --save @fortawesome/free-brands-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
+npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome`
+
+npm run dev
+git push -u origin main
+git add .
+git status
+git add .
+git commit -m "update navbar"
+git push -u origin main
+npm run dev
+npm i react-router-dom
+npm run dev
+npm i -D react-router-dom`
+
+npm run dev
+git status
+git branch
+git pull
+git status
+git branch
+git switch backend
+git add .
+git commit -m "updated"
+git switch backend
+npm run dev
+npm run deve
+npm run dev
+npm i 
+npm run de
+npm run dev
+git switch main
+git status
+git add .
+git commit -m "Test"
+git push
+clear
+git switch main
+npm run dev
+cd ../
+cd E
+npm i
+npm init
+cd .\eventifyU\
+clear
+npm i
+npm init
+npm i
+npm run dev
+npm i
+npm run dev
+npm install react-router-dom
+npm run dev
+npm install lucide-react
+npm run dev
+git add .
+git commit -m "added login feature"
+git push -u origin main
+npm run dev
+git add .
+git commit -m "removed empty files"
+git push
+npm run dev
+git add .
+git status
+git commit
+git commit -m "fixing bugs"
+git push
+npm run dev
+npm install react-icons --save
+npm run dev
+git add .
+git commit -m "Added feedback form"
+git push
+git push -u origin main
+git pull origin main
+git push origin main
+git log --oneline
+git checkout ab9ea6f
+npm run dev
+ls
+cd .\Frontend\
+ls
+clear
+npm run dev
+git status
+git staus
+git status
+git log --oneline
+git push 
+git pull
+git add .
+git status
+git commit -m "added feedback form"
+git push
+npm run dev
+cd .\Frontend\
+npm run dev
+git add .
+git push
+git add .
+git commit -m "removed empty files"
+git push
+npm run dev
+git clone https://github.com/ijassandhu/Portfolio.git
+npm run dev
+git add .
+git commit -m "responsive navbar and feedback form"
+git push
+npm run dev
+cd .\Frontend\
+npm run dev
+cd Frontend
+npm run dev
+cd Frontend
+npm run dev
+cd Frontend
+npm run dev
+cd Frontend
+npm run dev
+git status
+git add .\Backend\
+git commit -m "Added backend folder"
+git push
+cd Frontend
+npm run dev
+cd .\Frontend\
+npm run dev
+npm install react-slick --save
+npm install slick-carousel --save
+npm run dev
+git add .
+git commit -m "Added Carousel"
+git push
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+git commit -m "Added checkbox feature"
+cd .\Frontend\
+git add .
+git commit -m "Saving feature added"
+git push
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+git add .
+git commit -m "color combination updated"
+git push
+npm run dev
+cd .\Frontend\
+npm run dev
+npm install react-typed
+npm run dev
+npm install react-typed
+npm run dev
+npm uninstall react-typed
+clear
+npm uninstall react-typed
+clear
+npm run dev
+npm install react-typed
+npm run dev
+git add .
+git commit -m "autotyped added"
+git push
+npm run dev
+cd .\Frontend\
+git add .
+git commit -m "Club section added"
+git push
+react version
+clear
+npm run dev
+git add .
+git commit -m "Dashboard updation"
+git push
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+git add .
+git commit -m "Dashboard"
+git push
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+git add .
+git commit -m "active navbar"
+git push
+git add .
+git commit -m "dashboard updation"
+git push
+npm run dev
+cd .\Frontend\
+git add .
+git commit -m "changes in dashboard"
+git push
+cd .\Frontend\
+npm run dev
+$ npx cowsay wow
+npm run dev
+git add .
+git commit -m "updated"
+git push
+cd .\Frontend\
+git add .
+git commit -m "updated navbar"
+git push
+git add .
+git commit -m "updated navbar"
+git push
+git add .
+git commit -m "updated navbar"
+git push
+git add .
+git commit -m "updated navbar"
+git add README.md
+git commit -m "updated"
+git add README.md
+git push
+git add .
+git commit -m "updated"
+git push
+npm run dev
+git pull
+git push
+npm run dev
+cd .\Frontend\
+npm run dev
+git add .
+git config --global core.autocrlf true`
+
+git commit -m "overall updation"
+git push
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+npm i coreui
+npm install @coreui/react @coreui/coreui
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+git add .
+git commit -m "updation"
+git push
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+git add .
+git commit -m "active footericons"
+git push
+npm run dev
+git add .
+git commit -m "Changes in Dashboard"
+git push
+npm install framer-motion
+git add navbar.jsx
+cd .\Frontend\
+git add navbar.jsx
+git add .\src\assets\components\navbar.jsx
+git commit -m "fixed some issues"
+git push
+cd .\Frontend\
+npm run dev
+git add .
+git commit -m "structured components"
+git push
+cd .\Frontend\
+git add .
+git commit -m "Dynamic routing"
+git push
+npm run dev
+npm -y init
+npm install serve
+npm serve new.html
+npm run dev
+git add .
+git commit -m "Dynamic routing"
+git push
+git add README.md
+git commit -m "README.md"
+git push
+cd .\Frontend\
+npm run dev
+git add \components\dashboard.jsx
+git add \dashboard.jsx
+git add .\src\components\dashboard.jsx
+git commit -m "added hooks"
+git push
+git add \components\faq.jsx
+git add .\src\components\faq.jsx
+git commit -m "faq added"
+git push
+git add .\src\App.jsx
+git commit -m "error fix"
+git push
+git add .\src\App.jsx
+git commit -m "error fix"
+git push
+git add .\src\components\Notfound.jsx
+git commit -m "changes in name"
+git add .
+git commit -m "minor changes"
+git push
+git add .\src\components\navbar.jsx
+git commit -m "hidden search added"
+git push
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+git add .\Frontend\src\components\dashboard.jsx
+git commit -m "added logout confirmation"
+git push
+cd .\Frontend\
+git add .\src\components\logoutconfirmation.jsx
+git commit -m "component created"
+git push
+.\src\components\navbar.jsx
+cd .\Frontend\
+git add .\src\components\navbar.jsx
+git commit -m "minor changes"
+git push
+cd .\Frontend\
+npm run dev
+python
+clear
+pip install .\requirements.txt
+pip install -r .\requirements.txt
+python .\manage.py runserver
+pip install -r .\requirements.txt
+python .\manage.py runserver
+python
+cd .\Frontend\
+npm run dev
+git add .\src\components\contactus.jsx
+git commit -m "contact component added"
+git push
+npm init
+npm run dev
+cd .\Frontend\
+npm run dev
+npx magicui-cli add word-pull-up
+init
+npm init
+npm run dev
+npm uninstall magic-ui`
+
+npm run dev
+npm init
+mkdir src/utils`
+touch src/utils/utils.js`
+
+npm run dev
+git add .\src\components\wordpullup.jsx
+git commit -m "Wordpullup added"
+git add .\src\components\boxreveal.jsx
+git commit -m "bodyreveal animation added"
+git add .\src\components\body.jsx
+git commit -m "animated text"
+git add .\src\components\events.jsx
+git commit -m "wordpullup heading"
+git add .\src\components\footer.jsx
+git commit -m "new route added"
+git add .\src\utils\
+git commit -m "utils added"
+git add .\src\App.jsx
+git commit -m "new route"
+git push
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+git add .\src\magic.ui\
+git commit -m "structured magic.ui"
+git push
+git add .
+git commit -m "added transition"
+git push
+cd .\Frontend\
+git add .\src\magic.ui\blurin.jsx
+git commit -m "animation added"
+git push
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+npm install react-router-dom framer-motion`
+
+npm run dev
+cd .\Frontend\
+npm install react-intersection-observer`
+
+cd .\Frontend\
+npm install react-intersection-observer`
+
+npm run dev
+git add .\src\magic.ui\pagetransition.jsx
+git commit -m "added transition"
+git push
+cd .\Frontend\
+git add .\src\magic.ui\shimmerbtn.jsx
+git commit -m "shimmerbtn added"
+git push
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+git add .
+git commit -m "changes"
+git push
+echo "# Alluminati" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Alluminati.git`
+git push -u origin main
+git add .\index.html
+git commit -m "home page added"
+git add .\alumni\news\index.html
+npm run dev
+npm install dev
+npm run dev
+git add .\Frontend\for-institutions\
+git add .\Frontend\for-institutions\index.html
+git init
+echo "# Alluminati" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Grad-Connect.git
+cd .\Frontend\
+git add .\for-institutions\
+git commit -m "added institutions"
+git push
+git pull
+cd ../
+git add .\Frontend\for-institutions\
+git commit -m "added institutions"
+git add .\Frontend\for-institutions\index.html
+git commit -m "added institutions"
+cd .\Frontend\
+git add .\for-institutions\
+git commit -m "added institutions"
+git add .\for-institutions\index.html
+git commit -m "added institutions"
+cd .\Backend\
+npm i
+npm remove 
+npm remove @types/express-validator
+npm remove @types/mongoose
+ts-node --version
+npm run dev
+npm i -D ts-node
+npm run dev
+git pull
+git status
+git add .\Frontend\index.html
+git commit -m "added home page"
+cd .\Frontend\
+git add .\index.html
+git commit -m "added home page"
+git push
+git remote add origin https://github.com/ijassandhu/Grad-Connect.git
+git remote set-url origin https://github.com/ijassandhu/Grad-Connect.git
+git push
+git pull
+git push
+cd ..
+git pull
+git status
+git add .\Frontend\news\
+git commit -m "news section added"
+cd .\Frontend\
+git add .\news\
+git commit -m "news section added"
+git push
+git add .\news\
+git add .\data_mine\
+git commit -m "added data_mine"
+git push
+git add .\clients\
+git commit -m "clients section"
+git push
+git add .\images\
+git commit -m "images added"
+git push
+git add .\features\
+git commit -m "features added"
+git push
+git add .\Frontend\for-institutions\
+git commit -m "images added"
+cd .\Frontend\
+git add .\for-institutions\
+git commit -m "images added"
+git push
+git pull
+git push
+git add .\index.html
+git commit -m "path correction"
+git push
+git add .\images\
+git commit -m "img for institute"
+git push
+git add .\data_mine\
+git commit -m "img & footer updation"
+git push
+cd f
+cd .\Frontend\
+git add .\signup\
+git commit -m "login page added"
+git add .\find-institute\
+git commit -m "institions added"
+git add .\contributions\
+git commit -m "contributions added"
+git push
+git log --online
+git log --oneline
+git status
+git add .
+git commit -m "Changed folder structure"
+git push
+cd backend
+ls
+nodemon index.js
+npm i
+npm run dev
+npm install dotenv
+npm install dotenv --save
+npm run dev
+clear
+cd Backend
+npm run dev
+git status
+git add .\Backend\
+git status
+git commit -m "Fix: backend, added dotenv and .env.exmaple"
+git push
+clear
+git stautus
+git status
+git add index.html
+ls
+clear
+git commit -m "Fix: shifted index.html to root dir":
+git push
+clear
+git pull
+cd .\Backend\
+npm run dev
+cd .\Frontend\
+cd ../
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+git init
+git add .\Folder\fullpyramid.cpp
+git commit -m "fullpyramid"
+git push
+git remote add origin https://github.com/ijassandhu/dsa.git
+git push
+git push --set-upstream origin main
+git add .\Folder\halfpyramid.cpp
+git push
+git add .\Folder\hollowinvertedhalfpyramid.cpp
+git commit -m "hollowinvertedhalfpyramid"
+git rm halfpyramid
+git rm halfpyramid.cpp
+git rm --cached halfpyramid.cpp
+git rm --cached .\Folder\halfpyramid.cpp
+git push
+git rm --cached .\Folder\halfpyramid.cpp
+git commit -m "removed"
+git push
+git add .\Folder\halfpyramid.cpp
+git commit -m "halfpyramid"
+git add .\Folder\hollowrectangle.cpp
+git commit -m "hollowrectangle"
+git push
+git add .\Folder\invertedhalfpyramid.cpp
+git commit -m "invertedhalfpyramid"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'inputArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'inputArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'inputArray.exe'
+git add .\Folder\Patterns\
+git commit -m "patterns added"
+git push
+git add .\Folder\Array\inputArray.cpp
+git commit -m "taking input in an array"
+git push
+git add .
+git add .\Folder\
+git commit -m "structuring"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'inputArray.exe'
+3
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'inputArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'inputArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+git add .\callRef.exe
+git commit -m "call by ref"
+git push
+git add .
+git commit -m "call by ref"
+cd ../
+git add .\callRef.cpp
+git commit -m "call by ref"
+git push
+Get-CimInstance Win32_WinSat
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'callRef.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'linearsearch.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'linearsearch.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'linearsearch.exe'
+cd ../
+git add .\linearsearch.cpp
+git commit -m "linear search"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'maxElement.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'maxElement.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'maxElement.exe'
+cd ../
+git add .\maxElement.cpp
+git commit -m "maximum element in array"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd ../
+git add .\reverseArray.cpp
+git commit -m "reverse of an array"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'uniqueElement.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'uniqueElement.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'uniqueElement.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'uniqueElement.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'uniqueElement.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'uniqueElement.exe'
+cd ../
+git add .\uniqueElement.cpp
+git commit -m"finding unique element in the array"
+git push
+npm run dev
+cd .\Frontend\
+npm run dev
+npm install vite@latest my-newreact-app
+npm install vite@latest my-react-app
+npm create vite@latest my-newreact-app
+cd my-newreact-app
+npm install
+npm run dev
+npm init -y
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+tailwindcss -i ./styles.css -o ./dist/output.css --watch
+npm run build
+tailwindcss -i ./style.css -o ./dist/output.css --watch
+npm run build
+npx tailwindcss -i ./styles.css -o ./dist/output.css --watch
+npx tailwindcss -i ./styles.css -o ./src/output.css --watch
+npm init -y
+cd .\backend\
+npm init -y
+npx tailwindcss -i ./styles.css -o ./src/output.css --watch
+cd .\Frontend\
+npm run dev
+npm install -D tailwindcss
+npx tailwindcss init
+npm install -D postcss autoprefixer tailwindcss`
+
+touch postcss.config.js`
+
+npm list tailwind css
+npm install -D tailwindcss
+npx tailwindcss init
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
+
+npx tailwindcss -i ./src/style.css -o ./dist/output.css --watch`
+
+npx tailwindcss -i ./style.css -o ./dist/output.css --watch`
+
+npm install
+npx tailwindcss -i ./style.css -o ./dist/output.css --watch`
+
+npm run dev
+cd .\src\
+npm init -y
+npm install -D tailwindcss postcss autoprefixer
+npm install -D -g tailwindcss postcss autoprefixer
+npm rm autoprefixer postcss tailwindcss
+ipconfig
+npm run dev
+cd .\Frontend\
+npm run dev
+cd ..\learn-fetch\official_joke_api\
+npm run dev
+git add .
+git commit -m "up to date"
+git pull
+npm i
+cd .\Backend\
+npm i
+npm run dev
+cd ..
+git commit -a -m "merge conflict resolved"
+git push
+npm run dev
+cd .\Frontend\
+npm run dev
+cd '.\Desktop\Task Manager\'
+npm run dev
+git pull
+npm i
+npm run dev
+cd .\Frontend\
+npm run dev
+cd .. 
+cd .\Backend\
+npm run dev
+clear
+npm run dev
+git status
+cd .\Frontend\
+npm run dev
+cd ..
+cd .\Backend\
+npm run dev
+cd .\Frontend\
+git status
+cd ..
+cd .\Backend\
+npm run dev
+npm run dev
+ cd 
+cd .\Backend\
+npm run dev
+cd .\Backend\
+npm run dev
+cd ..
+cd .\Backend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd ..
+cd .\Backend\
+npm run dev
+clear
+npm run dev
+ls
+clear
+cd .\Backend\
+npm run dev
+cd .\Frontend\
+npm run dev
+cd ..
+cd .\Backend\
+npm run dev
+npm init -y
+npm install express
+cd .\backend\
+npm init -y
+npm install express
+npm install zod
+node types.js
+git log
+git init
+git log
+git add README.md
+echo README.md
+git add README.md
+git branch
+git branch main
+cd ..
+git branch
+clear
+git init
+git add .\backend\index.js
+git commit -m "created express struct"
+rm -rf .git
+git status
+git init
+git add .\backend\
+cd .\backend\
+git init
+git add .\index.js
+git commit -m "express structured"
+git add remote origin https://github.com/ijassandhu/Todo-App.git 
+git add remote origin https://github.com/ijassandhu/Todo-App.git
+git remote add origin https://github.com/ijassandhu/Todo-App.git
+git push
+git push --set-upstream origin main
+git log
+git revert 499c4f092528e43368444e0b2a440158814956ec
+git log
+git reset --hard HEAD~1`
+
+git add .\backend\
+git commit -m "created backend folder"
+git push
+git remote add origin https://github.com/ijassandhu/Todo-App.git
+git push
+git push --set-upstream origin main
+git pull
+git push --set-upstream origin main
+git push --help
+git pull
+ git branch --set-upstream-to=origin/<branch> main
+git fetch
+git push
+git push --set-upstream origin main
+git pull --rebase
+ git branch --set-upstream-to=origin/<branch> main
+git push -u
+git push --set-upstream origin main
+git pull origin main
+git branch
+git init
+git add .\backend\
+git commit -m "created backend folder"
+git add .
+git commit -m "created folder and structure"
+ls -a
+dir /a
+git status
+echo "# Todo-App" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Todo-App.git`
+git push -u origin main
+cd .\backend\
+git add .\index.js
+git commit -m "structured express"
+git push
+cd ..
+git add .\backend\index.js
+git commit -m "structured express"
+git rm .\.git\
+git rm .\README.md
+git pull
+git add .
+npm init
+npm install express zod
+cd .\backend\
+npm install express zod
+cd ..
+echo "# Todo-App" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Todo-App.git`
+git push -u origin main
+git add .\backend\
+git log
+git branch
+git commit -m "added"
+git push
+cd .\backend\
+node .\index.js
+npm init -y
+node .\index.js
+cd ..
+node .\index.js
+node .\backend\index.js
+cd .\Backend\
+git add .\src\controller\user.ts
+git commit -m "error handling"
+git push
+git pull
+git push
+ git pull origin main
+git push origin main
+git push --force
+git add .\src\routes\user.ts
+git commit -m "added comment"
+git push
+npm install mongoose
+nslookup _mongodb._tcp.cluster0.it4rm2p.mongodb.net
+ipconfig /flushdns
+nslookup _mongodb._tcp.cluster0.it4rm2p.mongodb.net
+npm install mongodb
+npm install mongodb
+mongosh --version
+mongosh mongodb+srv://ijassandhu:<ijassandhu0209>@cluster0.it4rm2p.mongodb.net/
+ipconfig /flushdns
+mongosh mongodb+srv://ijassandhu:<ijassandhu0209>@cluster0.it4rm2p.mongodb.net/
+cd .\backend\
+git add .\db.js
+git commit -m "db connection"
+git push
+git add .\index.js
+git commit -m "routes"
+git push
+node .\index.js
+npm install
+node .\index.js
+cd .\backend\
+node .\index.js
+git add .
+git commit -m "added app.listen"
+git push
+npm create vite@latest
+cd .\frontend\
+npm install
+npm run dev
+git add .
+cd ..
+git add .
+git commit -m "Added frontend"
+git push
+npm install -D tailwind postcss autoprefixer
+npx tailwindcss init
+cd .\frontend\w
+cd .\frontend\
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+npx tailwindcss -i ./src/index.css -o ./dist/output.css --watch
+npm run dev
+npm install tailwindcss
+npm install tailwindcss @tailwindcss/vite
+npm install tailwindcss
+npm fund
+npm install -D tailwindcss postcss autoprefixer @tailwindcss/vite
+npm intall -g npm!11.0.0
+npm install -g npm!11.0.0
+npm install -g npm@11.0.0
+npx tailwindcss init -p
+cd ..
+cd .\backend\
+npm run dev
+node .\index.js
+cd .\frontend\
+npm run dev
+npm install -D tailwindcss postcss autoprefixer @tailwindcss/vite
+npm run dev
+cd .. 
+cd .\backend\
+npm run dev
+npm run
+clr
+clear
+npm run dev
+npm install cors
+cd .\frontend\
+npm run dev
+cd ..
+cd .\backend\
+npm run dev
+git add .\src\components\CreateTodo.jsx
+git commit -m "backend connection"
+git push
+git add .\src\components\Todos.jsx
+git commit -m "fetching todos"
+git push
+git add .\src\App.jsx
+git commit -m "rerender fix"
+git push
+npm install react-router-dom
+git add .
+git commit -m "minor changes"
+git push
+cd .\Frontend\
+npm run dev
+cd .\Frontend\
+npm run dev
+python -m venv venv
+.\venv\Scripts\activate
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.0.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.0.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+pip install -r requirements.txt
+pip install -r requirements.txt
+ python.exe -m pip install --upgrade pip
+pip install -r requirements.txt
+gcc --version
+pip install --no-cache-dir numpy
+.\Desktop\
+cd .\Desktop\
+cd .\mingw-w64-v11.0.0\
+cd..
+cd \Desktop\mingw-w64-v11.0.0\mingw-w64-v11.0.0
+cd .\Desktop\
+cd .\mingw-w64-v11.0.0\
+cd ../../../../
+cd .\91623\
+gcc --version
+pip install -r requirements.txt
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.0.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.0.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+npm create vite@latest
+cd .\prop-prac\
+npm install
+npm run dev
+npm install
+npm run dev
+mkdir frontend
+cd .\frontend\
+npm install
+cd ..
+cd .\backend\
+npm install express
+npm install amqplib@latest`
+
+npm start
+npm init -y
+npm install express nodemon
+npm install mongoose
+cd ..
+git init
+git add .\frontend\
+git commit -m "created react proj"
+git remote add origin https://github.com/ijassandhu/Paytm-clone.git
+git push
+git push -u origin main
+npm init
+npx create-react-router@latest
+cd frontend
+npm run dev
+git clone https://github.com/metaladmiral/frontend-bajaj.git
+cd .\backend-bajaj\
+git clone https://github.com/metaladmiral/backend-bajaj.git
+echo "# Bajaj" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Bajaj.git`
+git push -u origin main
+cd ..
+cd .\frontend-bajaj\
+echo "# bajaj-backend" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/bajaj-backend.git`
+git push -u origin main
+clear
+git init`
+git add .`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/bajaj-backend.git`
+git push -u origin main
+git init`
+git add .`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/bajaj-frontend.git`
+git push -u origin main
+npm run dev
+git status
+git add .
+git commit -m "added"
+git push
+git add .
+git commit -m "new"
+git push
+clear
+git status
+git add .
+git commit -m "cors"
+git puhs
+git push
+cd ..
+cd .\bajaj\
+cd .\bajaj\src\
+cd ..
+cd '.\BAJAJ FRONTEND\'
+git add.
+git add .
+ls
+cd .\frontend-bajaj\
+git add .
+git commit -m "final"
+git push
+cd .\backend-bajaj\
+clear
+ls
+clear
+git status
+git add .
+git commit -m "Fix email user"
+git push
+npm -v
+node -v
+git clone https://github.com/LOSTCODE160/DUNGEON.git
+git add .\backend\
+git add .\backend\
+git commit -m "added routes and dbcon"
+git add .
+git commit -m "added folder"
+git push
+npm install amqplib@latest`
+
+npm uninstall amqplib`
+
+npm audit fix
+npm audit fix --force
+npm list amqplib
+npm remove amqplib`
+rm -rf node_modules package-lock.json`
+npm install`
+
+npm why amqplib`
+
+npm uninstall tailwind hase`
+
+npm install dotenv
+cd .\backend\
+npm i zod
+git clone https://github.com/rishilahoti/portfolio_new.git
+npm run dev
+npm i
+npm run dev
+npm init -y
+npm run dev
+npm start
+npm run
+npm run dev
+npm install
+npm run dev
+rm -rf node_modules package-lock.json`
+npm install`
+
+Remove-Item -Recurse -Force node_modules`
+Remove-Item -Force package-lock.json`
+
+cd .\portfolio_new\
+npm i
+npm run dev
+git clone https://github.com/archit-sehgal/nav_greeting_about_page.git
+cd .\backend\
+git commit -m "added middleware"
+ls
+git add .\middleware.js
+git commit -m "added middleware"
+git push
+git add .\db.js
+git commit -m "defined userSchema"
+git push
+git add .\index.js
+git commit -m "basic express server"
+git puah
+git push
+git add .\config.js
+git commit -m "dotenv"
+git push
+git add .\routes\index.js
+git commit -m "routes"
+git push
+git add .\routes\user.js
+git commit -m "zod validation"
+git push
+git add .
+git commit -m "user side done"
+git push
+cd .\backend\
+npm run dev
+npm i
+npm run dev
+npm run
+npm run dev
+cd .\backend\routes\
+git add .\account.js
+git commit -m "added transactions"
+git push
+git add .\index.js
+git commit -m "account router added"
+git push
+cd ..
+git add .\db.js
+git commit -m "created account schema"
+git push
+npm run dev
+git clone https://github.com/100xdevs-cohort-2/paytm.git
+npm i
+git clone https://github.com/100xdevs-cohort-2/paytm.git
+npm run dev
+cd .\Frontend\
+npm run dev
+git add .
+git commit -m "sepreated backend"
+git push
+cd ..
+git commit -m "separated backend"
+git push
+git commit -m "separated backend"
+git push
+git status
+git add .
+git commit -m "removed backend"
+git push
+git add .
+git status
+git commit -m "removed settings"
+git push
+npm run dev
+git add .
+git commit -m "structuring code"
+git push
+npm run dev
+git status
+git add .
+git commit -m "fix: tailwind"
+git puah
+git push
+cd .\backend\
+npm run dev
+cd ..
+cd .\frontend\
+npm i react-router-dom
+npm install tailwindcss @tailwindcss/vite
+npm run dev
+npm list tailwindcss
+npx tailwindcss init -y
+cd ..
+cd .\backend\
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+npm run poop
+npm install nodemon
+npm install --save-dev nodemon 
+nodemon index.js
+cd ..
+cd .\backend\
+nodemon index.js
+mongod --shutdown`
+
+nodemon index.js
+git add .\routes\account.js
+git commit -m "fixed session for MO"
+git push
+git add .\routes\user.js
+git commit -m "user routes added"
+git push
+git add .\db.js
+git commit -m "updated userSchema"
+git push
+git add .\routes\index.js
+git commit -m "account Router added"
+git push
+git add .\index.js
+git commit -m "port added"
+git push
+git add .
+git commit -m "added nodemon"
+git push
+cd .\frontend\
+npx storybook@latest init
+clear
+cd .\frontend\
+npm run dev
+npm install
+npm run dev
+npm install react-router-dom
+npm run dev
+cd .\frontend\
+npm run dev
+cd .\frontend\
+npm run dev
+npm list tailwindcss`
+
+npm run dev
+git add .\src\pages\Signup.jsx
+git commit -m "created Signup"
+git push
+git add .\src\pages\Signin.jsx
+git commit -m "added signin"
+git push
+git add .\src\components\Users.jsx
+git commit -m "users list(hardCoded"
+git commit -m "users list(hardCoded)"
+git push
+git add .\src\components\Heading.jsx
+git commit -m "heading component"
+git push
+git add .\src\components\SendMoney.jsx
+git commit -m "sending money added"
+git push
+git add .\src\components\Balance.jsx
+git commit -m "button design"
+git push
+npm install axios
+cd .\backend\
+nodemon index.js
+npm run dev
+nodemon index.js
+git add .\routes\user.js
+git commit -m "seaching issue fixed"
+git push
+git add .\package.json
+git commit -m "nodemon added"
+git push
+nodemon index.js
+cd ..
+cd .\frontend\
+git add .\src\pages\Signup.jsx
+git commit -m "dynamic"
+git push
+git add .\src\pages\Dashboard.jsx
+git commit -m "dashboard added"
+git push
+git add .\src\components\Users.jsx
+git commit -m "query parameter"
+git push
+git add .\src\components\Button.jsx
+git commit -m "button styling"
+git push
+cd .\frontend\
+git add .\src\components\BottomWarning.jsx
+git commit -m "warning message"
+git push
+git add .\src\components\InputBox.jsx
+git commit -m "input box"
+git push
+cd .\frontend\
+git add .\src\components\AppBar.jsx
+git commit -m "appbar added"
+git push
+cd f
+cd .\frontend\
+npm run dev
+cd ..
+cd .\backend\
+nodemon index.js
+cd .\frontend\
+git add .\src\components\SubHeading.jsx
+git commit -m "subheading"
+git push
+cd f
+cd .\frontend\
+npm run dev
+cd ..\backend\
+nodemon index.jsx
+cd .\frontend\
+git add .\src\components\SendMoney.jsx
+git commit -m "dynamic render"
+git push
+cd .\frontend\
+npm run dev
+cd ..\backend\
+nodemon index.js
+git add .\src\pages\Signin.jsx
+git commit -m "added signin"
+git push
+npm run dev
+cd .\frontend\
+git add .\src\pages\Dashboard.jsx
+git commit -m "dashboard"
+gut push
+git push
+cd .\frontend\
+git add .\src\components\Balance.jsx
+git commit -m "updated"
+git push
+cd .\frontend\
+npm run dev
+ccd ..
+cd ..
+nodemon index.js
+cd .\backend\
+nodemon index.js
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sumOfElements.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sumOfElements.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sumOfElements.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sumOfElements.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sumOfElements.exe'
+4
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sumOfElements.exe'
+cd .\frontend\
+npm run dev
+cd ..\backend\
+nodemon index.js
+clear
+cd backend
+nodemon index.js
+clear
+clear
+nodemon index.js
+npm run dev
+cd ../f
+cd ..
+cd .\frontend\
+git add .\src\pages\Signin.jsx
+git commit -m "fixed bug"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'linearSeach.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'linearSeach.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'reverseArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'swapAlternate.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'swapAlternate.exe'
+git add .\Folder\Array\sumOfElements.cpp
+git commit -m "sumofelements"
+git push
+npx create-next-app@latest
+npm install -g npm@11.2.0
+npm run dev
+npm install
+npm run dev
+npm install
+npm run dev
+cd .\next-app\
+npm run dev
+git clone https://github.com/AryanAyyu/Lentit.git
+cd .\Lentit\
+npm install
+npm run dev
+next dev -H 0.0.0.0`
+
+npm install
+npm run dev
+npm install next react react-dom`
+
+npx next dev -H 0.0.0.0`
+
+git clone https://github.com/AryanAyyu/Lentit.git
+cd .\Lentit\
+npm install
+npm run dev
+git checkout -b feature/frontend
+npm run dev
+git branch
+git add .\src\components\Navbar.tsx
+git commit -m "color code"
+git push origin feature/frontend
+git clone https://github.com/ijassandhu/Lentit.git
+cd .\Lentit\
+npm install
+git checkout -b feature/frontend
+npm run dev
+cd .\Lentit\
+npm run dev
+cd .\Lentit\
+npm run dev
+git branch
+git add .\src\components\Navbar.tsx
+git commit -m "color scroll effect"
+git push
+git remote add upstream https://github.com/AryanAyyu/Lentit
+git push origin feature/frontend
+npm install react-icons
+git add .\src\components\DownloadModal.tsx
+git commit -m "app popup"
+git push
+git remote add upstream https://github.com/AryanAyyu/Lentit
+git commit -m "app popup"
+cd .\Lentit\
+git branch
+git checkout master
+git add .
+git commit -m "color scheme changed"
+git checkout main
+git pull
+git remote -v
+git fetch upstream
+git checkout feature/frontend
+git merge upstream/main
+npm run dev
+git add .\src\pages\Index.tsx
+git commit
+git push origin feature/frontend
+echo "# Test" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Test.git`
+git push -u origin main
+git checkout -b quickdraw-test`
+
+echo "# Just triggering Quickdraw" > quickdraw.md`
+git add quickdraw.md`
+git commit -m "feat: trigger quickdraw badge"`
+
+git push origin quickdraw-test`
+
+cd .\Lentit\
+git fetch upstream
+git branch
+git rebase upstream/feature/frontend
+git rebase upstream/main
+git add .
+git commit -m "testing color scheme"
+git rebase upstream/main
+npm run dev
+git pull upstream
+git pull origin feature/frontend
+git checkout feature/frontend
+git commit -m "fixing issues"
+git checkout feature/frontend
+git pull origin feature/frontend
+git stash`
+git checkout feature/frontend`
+
+git pull origin feature/frontend
+git checkout main
+git fetch upstream
+git merge upstream/main
+npm install
+git add .\src\components\DownloadModal.tsx
+git commit -m "minor changes"
+git push
+git pull upstream
+git checkout main
+git pull upstream
+ git fetch upstream
+git checkout main
+git rebase upstream/main
+git status
+git add .`
+git rebase --continue`
+
+git rebase upstream/main
+npm i
+git add .\src\components\Footer.tsx
+git commit -m "footer component"
+git push
+git checkout main
+git checkout feature/frontend
+git push --set-upstream origin feature/frontend`
+
+git push
+npm run dev
+cd .\Lentit\
+npm run dev
+cd .\Lentit\
+npm run dev
+git commit -m "fixed menu button"
+git add .\src\components\Navbar.tsx
+git commit -m "fixed menu button"
+git add .\src\components\CustomerReviews.tsx
+git commit -m "padding"
+git add .\src\components\WhyRent.tsx
+git commit -m "change in color"
+git add .\src\components\Wishlist.tsx
+git commit -m "color"
+git add .\src\components\AppDownload.tsx
+git commit -m "changes in size"
+git add .
+git commit -m "minor changes"
+git push
+git merge feature/frontend/main
+git branch
+git checkout main
+git merge feature/frontend
+git push origin main
+git pull
+git push origin main
+npm run dev
+git clone https://github.com/ijassandhu/Portfolio.git
+npm i
+npm run dev
+npm run vite
+npm i
+npm run dev
+npm install dev
+npm run dev
+npm i
+npm run dev
+cd .\Portfolio\
+npm run dev
+cd .\Portfolio\
+npm run dev
+npm install react-router-dom @tanstack/react-query`
+
+npm run dev
+echo "# Portfolio" >> README.md
+git init
+echo "# Portfolio" >> README.md
+git init
+git branch
+git remote add origin https://github.com/ijassandhu/Portfolio.git
+git add .\src\components\Navbar.tsx
+git commit -m "feat: add responsive navbar with theme toggle"
+git push
+rm -rf .git`
+
+Remove-Item -Recurse -Force .git`
+
+git init
+git add .\src\components\Navbar.tsx
+git commit -m "Responsive navbar added"
+git push
+git remote add origin https://github.com/ijassandhu/Portfolio.git
+git push
+git push --set-upstream origin main
+git push
+cd .\Portfolio\
+git add .\src\components\HeroSection.tsx
+git commit -m "hero section added"
+git push
+git add .\vercel.json
+git commit -m "reload fix"
+git push
+git add vercel.json vite.config.js`
+git commit -m "Fix Vercel routing for React Router"`
+git push
+cd .\Lentit\
+git fetch upstream
+npm run dev
+cd .\Portfolio\
+npm run dev
+cd .\Lentit\
+git fetch upstream
+npm run dev
+cd .\Lentit\
+git add .
+git commit -m "resizing"
+git push
+git branch
+git fetch upstream
+npm run dev
+cd .\Lentit\
+git fetch upstream
+npm run dev
+git merge upstream/main
+git commit -m "removed dead code"
+git merge upstream/main
+git add .\src\components\Navbar.tsx
+git commit -m "removed dead code"
+git merge upstream/main
+git checkout -b trial-change`
+
+npm i
+npm install next react react-dom`
+
+git branch
+git branch -d trial-change
+git checkout trial-change
+git branch -d trial-change
+git checkout main
+git branch -d trial-change
+npm run dev
+git branch
+git add .\src\components\Navbar.tsx
+git commit -m "fixed scroll"
+git push
+npm install react-modal`
+
+cd l
+cd .\Lentit\
+npm run dev
+git add .\src\components\SellSidebar.tsx
+git commit -m "side bar"
+git add .\src\components\SellYourOwn.tsx
+git commit -m "addesidebar"
+git add .\src\pages\SellYourProduct.tsx
+git commit -m "selling page"
+git add .\src\App.tsx
+git commit -m "selling route"
+git push
+git add .\src\pages\NotFound.tsx
+git commit -m "changes in structure"
+git push
+cd .\Lentit\
+npm run dev
+git add .\src\pages\Login.tsx
+git commit -m "added image"
+git add .\src\components\images\login.svg
+git commit -m "image folder created"
+git add .\src\data\
+git commit -m "added brand"
+git add .\src\components\ThriftStoreDetails.tsx
+git commit -m "minor updation"
+git add .\src\components\ThriftStore.tsx
+git commit -m "home pg button"
+git add .\src\components\ProductDetails.tsx
+git commit -m "home pg button"
+git add .\src\components\ProductDetailsThrift.tsx
+git commit -m "home pg button"
+git add .\src\components\Navbar.tsx
+git commit -m "dropdown color"
+git add .\src\pages\Thrift.tsx
+git commit -m "adjustment"
+git add .
+git commit -m "updated"
+git push
+git fetch upstream
+git push
+git merge upstream/main
+git push
+cd .\Portfolio\
+npm run dev
+cd .\Portfolio\
+git add .\src\components\ContactSection.tsx
+git commit -m "contact section"
+git push
+cd .\Portfolio\
+git add .\src\components\Footer.tsx
+git commit -m "footer"
+git push
+cd .\Portfolio\
+git add .\src\components\SkillsSection.tsx
+git commit -m "skills section"
+git push
+git add .\src\components\AboutSection.tsx
+git commit -m "about"
+git push
+cd .\Portfolio\
+git add .\src\components\ResumeSection.tsx
+git commit -m "resume section"
+git push
+cd .\Portfolio\
+git add .\src\components\ProjectsSection.tsx
+git commit -m "project section created"
+git push
+cd .\Portfolio\
+git add .\src\components\ThemeProvider.tsx
+git commit -m "theme changer"
+git push
+cd .\Portfolio\
+git add .\src\components\ThemeToggle.tsx
+git commit -m "theme changer"
+git push
+cd .\Lentit\
+git fetch upstream
+git remote -v
+git fetch upstream
+git remote get-url upstream`
+
+git status
+git remote -v
+git remote add upstream  https://github.com/AryanAyyu/Lentit.git
+git fetch upstream
+npm run dev
+git remote add upstream https://github.com/AryanAyyu/Lentit
+git fetch upstream
+npm run dev
+git remote -v
+git branch --v
+git branch main
+git checkout main
+git fetch upstream
+npm run dev
+git remote -v
+git fetch upstream/main
+git branch
+git fetch upstream
+npm run dev
+clear
+git pull
+git stash
+git pull
+npm run dev
+clear
+npm run dev
+npm i
+npm run dev
+git stash log
+git stash list
+ld
+ls
+cd .\Lentit\
+git stash list
+npm i
+git add .\src\pages\Contact.tsx
+git commit -m "contact information"`
+
+git push
+git remote -v
+git branch
+git remote set-url origin https://github.com/ijassandhu/Lentit.git`
+
+git push
+git add .\src\components\Navbar.tsx
+git commit -m "notification resize fix"
+git push
+git add .\src\pages\Contact.tsx
+git commit -m "form added"
+git push
+cd .\Lentit\
+git add .\src\components\MobileNotification.tsx
+git commit -m "size issue fixed"
+git push
+cd .\Lentit\
+git fetch upstream
+npm run dev
+git pull
+git remote -v
+git fetch upstream
+git pull
+npm run dev
+cd .\Lentit\
+git stash
+npm run dev
+cd .\Lentit\
+git add .\src\components\DealOfTheDay.tsx
+git commit -m "responsive"
+git push
+cd .\Portfolio\
+git add .\src\components\BlogSection.tsx
+git commit -m "blog section"
+git push
+cleat
+clear
+clear
+cd .\Lentit\
+npm run dev
+git pull
+git pull
+cd .\Portfolio\
+git add .\src\components\ui\accordion.tsx
+git commit -m "accordion"
+git push
+git add .\src\components\DealOfTheDayThrift.tsx
+git commit -m "responsive"
+git push
+git add .\src\components\DealOfTheDayThrift.tsx
+git commit -m "resizing"
+git push
+git add .\src\components\NewArrivals.tsx
+git commit -m "color"
+git add .\src\components\NewArrivals.tsx
+git commit -m 'color'
+git push
+cd .\Lentit\
+git pull
+npm run dev
+cd .\Lentit\
+npm run dev
+git add .\src\components\MobileNotification.tsx
+git commit -m "styling"
+git add .\src\components\Login.tsx
+git commit -m "modal"
+git add .\src\components\DealOfTheDay.tsx
+git commit -m "updation"
+git add .\src\components\Settings.tsx
+git commit -m "settings"
+git add .\src\index.css
+git commit -m "removed accent"
+git add .\src\App.tsx
+git commit -m "settings route and loader"
+git add .\src\components\Loader.tsx
+git commit -m "loader"
+git push
+cd .\Portfolio\
+npm run dev
+cd .\Lentit\
+git add .\src\components\Navbar.tsx
+git commit -m "visibility"
+git push
+cd .\Lentit\
+npm run dev
+cd .\Portfolio\
+git add .\src\components\ui\alert.tsx
+git commit -m "alert-box"
+git add .\src\components\ui\avatar.tsx
+git commit -m "avatar"
+git add .\src\components\ui\card.tsx
+git commit -m "card"
+git add .\src\components\ui\badge.tsx
+git commit -m "badge"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\alert-dialog.tsx
+git commit -m "alert"
+git add .\src\components\ui\breadcrumb.tsx
+git commit -m "button"
+git add .\src\components\ui\button.tsx
+git commit -m "button"
+git add .\src\components\ui\aspect-ratio.tsx
+git commit -m "react aspect ratio"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\calendar.tsx
+git commit -m "calender"
+git add .\src\components\ui\chart.tsx
+git commit -m "carousel"
+git add .\src\components\ui\carousel.tsx
+git commit -m "carousel"
+git add .\src\components\ui\dialog.tsx
+git commit -m "dialog"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\checkbox.tsx
+git commit -m "checkbox"
+git push
+git add .\src\components\ui\command.tsx
+git commit -m "command"
+git add .\src\components\ui\collapsible.tsx
+git commit -m "collapsible"
+git add .\src\components\ui\drawer.tsx
+git commit -m "drawer"
+git push
+cd ..
+git pull
+cd .\Lentit\
+git pull
+npm run dev
+cd .\Portfolio\
+git add .\src\components\ui\dropdown-menu.tsx
+git commit -m "dropdown menu"
+git add .\src\components\ui\form.tsx
+gti commit -m "form"
+git commit -m "form"
+git add .\src\components\ui\hover-card.tsx
+git commit -m 
+git commit -m "hover-card"
+git add .\src\components\ui\input.tsx
+git commit -m 
+git commit -m "input"
+git add .\src\components\ui\input-otp.tsx
+git commit -m "input-otp"
+git push
+git add .\src\components\ui\label.tsx
+git commit -m "label"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\context-menu.tsx
+git commit -m  "context-menu"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\menubar.tsx
+git commit -m "menu-bar"
+git add .\src\components\ui\navigation-menu.tsx
+git commit -m "navigation-menu"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\pagination.tsx
+git commit -m "pagination"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\tabs.tsx
+git commit -m "tabs"
+git add .\src\components\ui\textarea.tsx
+git commit -m "text-area"
+git add .\src\components\ui\toggle.tsx
+git commit -m "toggle"
+git add .\src\components\ui\tooltip.tsx
+git commit -m "toottip"
+git add .\src\components\ui\use-toast.ts
+git commit -m "use-toast"
+git push
+cd .\Lentit\
+npm run dev
+cd .\Lentit\
+cd .\Portfolio\
+git add .\src\components\ui\toast.tsx
+git commit -m "toast"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\toaster.tsx
+git commit -m "toaster"
+git push
+c dl
+cd .\Lentit\
+npm run dev
+cd .\Lentit\
+npm run dev
+git add .\src\components\DownloadButtons.tsx
+git commit -m "buttons"
+git add .\src\components\DownloadModal.tsx
+git commit -m "updation"
+git add .
+git commit -m "minor changes"
+git push
+git pull
+git push
+git add .\src\components\DownloadModal.tsx
+git commit -m 
+git commit -m "font-size"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\popover.tsx
+git commit -m "popover"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\table.tsx
+git commit -m "table"
+git push
+cd .\Portfolio\
+git add .\src\components\ui\toggle-group.tsx
+git commit -m "toggle-group"
+git push
+git add .\src\components\ui\scroll-area.tsx
+git commit -m "scroll-area"
+git add .\src\components\ui\progress.tsx
+git commit -m "progress"
+git add .\src\components\ui\radio-group.tsx
+git commit -m "radio-group"
+git add .\src\components\ui\resizable.tsx
+git commit -m "resizable"
+git add .\src\components\ui\select.tsx
+git commit -m "select.tsx"
+git add .\src\components\ui\separator.tsx
+git commit -m "separator"
+git push
+npm run dev
+git add .\src\components\ui\sheet.tsx
+git commit -m "sheet"
+git push
+npm run dev
+git add .\src\components\ProductCard.tsx
+git commit -m "color and style"
+git push
+cd .\Lentit\
+npm run dev
+docker
+docker run mongo
+docker pull mongo
+sudo docker run mongo
+docker images
+sudo run docker
+sudo docker run mongo
+sudo docker run hello-world
+docker ps -a
+docker run hello-world
+docker run mongo
+docker images
+docker ps
+docker run mongo
+docker ps
+cleat
+clear
+docker run -d mongo
+docker ps
+docker run -p 27017:27017 -d mongo
+docker kill 6796e977c3af
+docker ps
+docker kill 094a6f9365d2
+docker ps
+docker rmi mongo --force
+cd .\Portfolio\
+git add .\src\components\ui\switch.tsx
+git commit -m "switch"
+git add .\src\components\ui\slider.tsx
+git commit -m "slider"
+git add .\src\components\ui\sonner.tsx
+git commit -m "sonner"
+git add .\src\components\ui\skeleton.tsx
+git commit -m "skeleton"
+git push
+cd .\Portfolio\
+git .\src\components\ui\sidebar.tsx
+git add .\src\components\ui\sidebar.tsx
+git commit -m "sidebar"
+git add .\src\hooks\
+git add .\src\hooks\use-mobile.tsx
+git commit -m "use-mobile"
+git add .\src\lib\utils.ts
+git commit -m "utils"
+git add .\src\pages\Blog.tsx
+git commit -m "Blog"
+git add .\src\pages\BlogPost.tsx
+git add .\src\pages\Blog.tsx
+git add .\src\pages\BlogPost.tsx
+git commit -m "BlogPost"
+git push
+git add .\src\pages\Index.tsx
+git commit -m "Index"
+git add .\src\pages\NotFound.tsx
+git commit -m "NotFound"
+git add .\src\pages\ResumePage.tsx
+git commit -m "Resume Page"
+git push
+cd .\Portfolio\
+git add .\src\App.css
+git commit -m "CSS"
+git add .\src\index.css
+git commit -m "CSS"
+git add .\src\main.tsx
+git commit -m "main"
+git add .\src\App.tsx
+git commit -m "Routes"
+git add .\public\photos\f3529f8a-4a62-4ff8-b80b-35cf95633c52.png
+git commit -m "photo"
+git add .\public\photos\new.jpg
+git commit -m "photo"
+git add .\public\photos\pic.png
+git commit -m "photo"
+git add .
+git commit -m "changes"
+git push
+cd .\Backend\
+npm init -y
+npm install express mongoose cors
+mongod
+node backend/server.js`
+
+node .\server.js
+cd ..
+cd .\Portfolio\
+npm install axios
+npm run dev
+clear
+npm run dev
+nslookup cluster0.it4rm2p.mongodb.net
+git add .\src\components\ContactSection.tsx
+git commit -m "links"
+git push
+cd ..
+cd .\Backend\
+git init
+git add .
+git commit -m "backend"
+git push
+cd ..
+git add .\Backend\
+git init
+git add .\Backend\
+git commit -m "push"
+git push
+git remote add "https://github.com/ijassandhu/Portfolio"
+git remote add origin https://github.com/ijassandhu/Portfolio
+git push
+git add .\Backend\
+git push
+git commit -m "backend"
+cd ..
+cd ..
+git add .
+cd .\Frontend\
+npm run dev
+cd ..
+git status
+git add .
+git switch -c dev
+git status
+git add .
+git status
+git add .
+git commit -m "a"
+git status
+git add .
+git status
+git push -u origin dev
+cd .\Frontend\
+ls
+git status
+git switch main
+git status
+git switch -c dev1
+git add .
+git status
+git commit -m "a"
+git push -u origin dev2
+git status
+git push -u origin dev1
+clear
+git status
+git add .
+git commit -m "added frontend"
+git push
+clear
+git status
+cd .\Frontend\
+clear
+ls
+git status
+git add .
+git status
+git add .
+git commit -m "added backend"
+git push
+git switch dev
+git switch main
+clear
+git status
+git switch -c dev
+git switch -c dev2
+clear
+git status
+git add .
+git commit -m "c"
+git push
+git push -u origin dev2
+git status
+clear
+git status
+git switch main
+clear
+ps
+lear
+clear
+git status
+cd frontend
+ls
+git status
+git pull
+clear
+ls
+cd .\portfolio\
+cd .\Frontend\
+clear
+ls
+clear
+npm i axios
+git status
+git add .
+git commit -m "added axios"
+git push
+git pull
+git push
+clear
+cd ..
+cd .\Backend\
+git add .\server.js
+git commit -m "rm redundancy"
+git push
+npm install dotenv
+git add .
+git commit -m "dotenv"
+git push
+git add .
+git commit -m "deprecated option"
+git push
+cd ..
+cd .\Frontend\
+git add .
+git commit -m "render"
+git push
+git add .
+git commit -m "testing"
+cd ..
+cd .\Backend\
+git add .
+git commit -m "testing"
+git push
+git add .
+git commit -m "testing"
+git push
+cd ..
+cd .\Frontend\
+npm run dev
+npm install axios
+cd ..
+git add .
+git commit -m "link"
+git push
+cd .\portfolio\
+cd .\Frontend\
+npm run dev
+cd ../backend
+clear
+git statusd
+git status
+git add server.js
+git commit -m "fix: cors"
+git push
+clear
+npm run dev
+clear
+node .\server.js
+clear
+git status
+git add server.js
+git commit -m "fix cors 2"
+git push
+clear
+git add server.js
+git commit -m "fix cors 2"
+git push
+cd .. 
+cd .\Frontend\
+git add .
+git commit -m "backend api"
+git push
+git add .
+git commit -m "minor changes"
+git push
+git add .
+git commit -m "web"
+git push
+docker
+docker run -d -p 8080:80 docker/welcome-to-docker
+docker ps
+docker ps -a
+docker -a ps
+docker stop
+docker stop docker/welcome-to-docker
+docker stop 9ab39248ac3b
+docker search  docker/welcome-to-docker
+docker search docker/welcome-to-docker
+docker pull docker/welcome-to-docker
+docker image ls
+docker image history docker/welcome-to-docker
+git clone https://github.com/dockersamples/helloworld-demo-node
+cd .\helloworld-demo-node\
+docker build -t ijassandhu/docker-quickstart .
+docker images
+docker run -d -p 8080:8080 ijassandhu/docker-quickstart
+docker tag ijassandhu/docker-quickstart ijassandhu/docker-quickstart:1.0
+docker images
+docker push ijassandhu/docker-quickstart:1.0
+docker run ijassandhu/docker-quickstart:1.0
+docker ls
+cd ..
+docker ls
+docker
+docker images
+docker ps
+docker stop ijassandhu/docker-quickstart:1.0
+docker rmi  b5f132bfa5d0
+docker stop ijassandhu/docker-quickstart
+docker stop d4d0e241f823
+docker stop 8054a20ac810
+docker ps
+docker rmi d4d0e241f823
+docker rmi d4d0e241f823:1.0
+clear
+docker ps
+docker images ls
+docker images ps
+docker run -p 27017:27017 -d mongo
+docker ls
+docker images
+docker images ps
+docker images ls
+docker image ls
+docker ps -a
+docker stop 0a22ea633cd2
+docker run -p 27017:27017 -d mongo
+docker stop cd9cea9e5aef
+docker run -p 27017:27017 -d mongo
+docker ps
+docker stop 7b4db9a26714
+docker run -p 27017:27017 -d mongo
+docker kill cd9cea9e5aef
+docker ps
+docker kill f7f6ca55a79e
+docker run -p 27017:27017 -d mongo
+docker ps
+docker inspect 0fb947250a01
+docker volume rm e976bc2012b80005c9b8e0d39809206c5bea8a19b781ba1f0a1d1b540f7ad5a0
+docker volume create volume_data
+docker volume
+docker volume ls
+docker run -v volume_data:data/db -27017:27017 -d mongo
+docker run -v volume_data:/data/db -27017:27017 -d mongo
+docker run -v volume_data:/data/db -27017:27017 mongo
+docker run -v volume_data:/data/db 27017:27017 mongo
+docker run -v volume_data:/data/db -p 27017:27017 mongo
+docker ls
+docker ps
+docker kill 0fb947250a01
+docker ps
+docker run -v volume_data:/data/db -p 27017:27017 mongo
+docker network my_custom_network
+docker network create my_custom_network
+docker network ls
+docker run -d -v volume_data:/data/db --name Jaskeeratmongo --network my_custom_network -p 27017:27017 mongo
+mongo ls -a
+docker ls -a
+docker ps -a
+docker kill 0a22ea633cd2
+docker stop 0a22ea633cd2
+docker stop a6fb8aa76619
+docker run -d -v volume_data:/data/db --name Jaskeeratmongo --network my_custom_network -p 27017:27017 mongo
+docker ps
+docker run -d -v volume_data:/data/db --name Jaskeeratmongo --network my_custom_network -p 27017:27017 mongo
+docker run -d -v volume_data:/data/db --name JaskeeratmongoDB --network my_custom_network -p 27017:27017 mongo
+git init
+git clone https://github.com/100xdevs-cohort-2/week-15-live-2.2.git
+docker build -t mongo_app
+cd .\week-15-live-2.2\
+docker build -t mongo_app
+docker build -t mongo_app .
+docker run -v volume_data:/data/db -p 27017:27017 mongo
+docker ps
+docker kill b21862efd086
+docker run -v volume_data:/data/db -p 27017:27017 mongo
+docker run mongo_app
+docker network create new_network
+docker run -d -p 3000:3000 --name new_backend --network new_network mongo_app
+docker ps
+docker stop 3578dcd9b756
+docker kill 3578dcd9b756
+docker rmi 3578dcd9b756
+docker rm 3578dcd9b756
+docker ps
+docker run -d -v volume_data:/data/db --name new_database --network new_network -p 27017:27017 mongo
+docker build -t mongo_app
+docker build -t mongo_app .
+docker run -p 3000:3000 --name backend --network new_network mongo_app
+docker ps
+docker kill 95ad3ab84477
+docker run -p 3000:3000 --name new_backend --network new_network mongo_app
+docker ls
+docker ps
+docker run -p 3000:3000 --name new_backendd --network new_network mongo_app
+npm run dev
+cd .\portfolio\
+npm run dev
+clear
+ls
+cd .\Frontend\
+clear
+npm run dev
+cd ..\Backend\
+clear
+npm run dev
+node .\server.js
+nodemon
+nodemon .\server.js
+cd f
+cd .\portfolio\
+cd .\Frontend\
+git add .\public\photos\
+git commit -m "removed photo"
+git push
+cd .\Lentit\
+git pull
+cd .\Folder\
+git add .\Array\swapAlternate.cpp
+git commit -m "swap Alternate"`
+
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'frequencyCount.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'frequencyCount.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'frequencyCount.exe'
+cd ..
+git add .\frequencyCount.cpp
+git commit -m "freq count"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'twoSum.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'twoSum.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'twoSum.exe'
+git add .\twoSum.exe
+cd ..
+git add .\twoSum.cpp
+git push
+git add .\twoSum.cpp
+git commit -m "two sum"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'slidingWindow.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'slidingWindow.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'slidingWindow.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'slidingWindow.exe'
+cd ./
+cd ..
+git add .\slidingWindow.cpp
+git commit -m "sliding window"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'twoSum.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'twoSum.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'twoSum.exe'
+1cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'rewardBreaking.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'rewardBreaking.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'rewardBreaking.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+MONDAY
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+git clone https://github.com/metaladmiral/xkcd-rtcamp-personal.git
+clear
+cd .\xkcd-rtcamp-personal\
+clear
+git status
+git remote -v
+clear
+git status
+git remote set-url origin https://github.com/ijassandhu/github-timeline-personal.git
+clear
+git branch
+git add .
+git switch -c dev
+git commit -m "adding files"
+git push
+git push -u origin dev
+clear
+git pull
+git switch main
+clear
+git log --oneline
+clear
+git log --oneline
+clear
+cd ..
+clear
+ls
+cd main
+ls
+cd ..
+ls
+code .
+git clone https://github.com/rtlearn/github-timeline-ijassandhu.git
+clear
+code .
+clear
+cd demo
+ls
+ls -la
+ls
+clear
+rm
+clear
+ls
+rm -r .\.git\
+clear
+git remote set-url origin https://github.com/ijassandhu/github-timeline-rtcamp.git
+ls
+git init
+clear
+git add .
+git commit -m "first commit"`
+git branch -M main`
+
+git remote add origin https://github.com/ijassandhu/github-timeline-rtcamp.git
+git push -u origin main
+clear
+ls
+ld 
+ls
+clear
+ls
+clear
+git branch
+git switch -c dev
+clear
+git add .
+git commit -m "adding files 2"
+git push -u origin dev
+clear
+git status
+git add .
+git commit -m "fix: test"
+git push
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\demo:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\github-timeline-ijassandhu:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+git status
+cd .\github-timeline-ijassandhu\
+ls
+git status
+git remote -v
+clear
+docker run --rm  -v "C:\Users\91623\Desktop\confused\rtcamp\main\github-timeline-ijassandhu:/github/workspace/" -v "C:\Users\91623\Desktop\confused\rtcamp\main\testing:/app"  -e GITHUB_REPOSITORY=sandhu/github-timeline-tests  -e GITHUB_WORKSPACE=/github/workspace  ghcr.io/rtlearn/gh-classroom
+clear
+ls
+clear
+git status
+cd .\github-timeline-ijassandhu\
+git status
+clear
+git add .
+git commit -m "adding lines"
+git branch
+git reset --soft HEAD~1
+git status
+git switch -c dev
+git commit -m "adding lines"
+git push -u origin dev:new
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortString.exe'
+cd .\Folder\
+git add .\String\sortString.cpp
+git commit -m "sort String"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\String\output'
+& .\'sortString.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\String\output'
+& .\'sortString.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\String\output'
+& .\'sortString.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\String\output'
+& .\'sortString.exe'
+CLEAR
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'threePointer.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'rewardBreaking.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'threePointer.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'threePointer.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'threePointer.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'threePointer.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'threePointer.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'threePointer.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'threePointer.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'threePointer.exe'
+cd .
+cd ./
+cd ..
+git add .\threePointer.cpp
+git commit -m "three pointer"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'longestSubarray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortedRotated.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'rotateArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'rotateArray.exe'
+cd ..
+git add .\rotateArray.cpp
+git commit -m "rotate array"
+git push
+cd .\Folder\Array\
+git add .\rewardBreaking.cpp
+git commit -m "reward breaking"
+git push
+gti add .\sortedRotated.cpp
+git add .\sortedRotated.cpp
+git commit -m "sorted and rotated"
+git add .\missingNum.cpp
+git commit -m "missing number"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortColors.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortColors.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'sortColors.exe'
+cd ..
+git add .\sortColors.cpp
+git commit -m "sort colors"
+git push
+cd .\Folder\Array\
+git add .\longestSubarray.cpp
+git commit -m "longest subArray"
+git push
+cd .\Folder\Array\
+git add .\consecutiveOne.cpp
+git commit -m "consecutive one"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'leaderArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'leaderArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'leaderArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'leaderArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'leaderArray.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'leaderArray.exe'
+cd ..
+git add .\leaderArray.cpp
+git commit -m "leader Elements"
+git push
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'longestSuccessive.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'longestSuccessive.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'longestSuccessive.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'longestSuccessive.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'longestSuccessive.exe'
+cd ..
+git add .\longestSuccessive.cpp
+git commit -m "longest successuve el"
+git push
+cd .\Folder\Array\
+git add .\reverseArray.cpp
+git commit -m "reverse array"
+git push
+python -m  venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt
+cd .\venv\
+pip install -r requirements.txt
+cd ..
+pip list
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+python .\test.py
+python test.py
+python .\LLMs\llm_demo.py
+python .\ChatModels\chatModel_openai.py
+clear
+python .\ChatModels\chatModel_openai.py
+clear
+clear
+cd .\ChatModels\
+CD ..
+python .\ChatModels\chatModel_openai.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+.\venv\Scripts\activate
+clear
+python .\ChatModels\chatModel_hf_api.py
+clear
+python .\ChatModels\chatModel_hf_api.py
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+python -m  venv venv
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\
+pip install -r requirements.txt
+cd ..
+pip install -r requirements.txt
+.\venv\Scripts\activate
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+pip list
+pip install .\requirements.txt
+pip install requirements.txt
+cleat
+clear
+pip install requirements.txt
+pip list
+pip install -r requirements.txt
+ python.exe -m pip install --upgrade pip
+clear
+pip list
+python .\ChatModels\chatmodel_hf_api.py
+clear
+python .\ChatModels\chatmodel_hf_api.py
+cleat
+clear
+python .\ChatModels\chatmodel_hf_local.py
+pip install torch
+pip install transformers accelerate`
+
+python test.py
+python
+install pip
+.\venv\Scripts\activate
+python .\EmbeddedModels\embedded_openai_query.py
+clear
+python .\ChatModels\chatmodel_hf_api.py
+clear
+python .\ChatModels\chatmodel_hf_api.py
+clear
+python .\ChatModels\chatmodel_hf_api.py
+clear
+python .\ChatModels\chatmodel_hf_api.py
+python .\ChatModels\chatmodel_hf_local.py
+cleat
+clear
+python .\ChatModels\chatmodel_hf_local.py
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+.\venv\Scripts\activate
+python .\ChatModels\chatmodel_hf_api.py
+pip install streamlit
+.\venv\Scripts\activate
+pip install streamlit
+python -m venv venv
+.\venv\Scripts\activate
+pip install .\requirements.txt
+pip install requirements.txt
+pip install -r requirements.txt
+pip install --upgrade pip
+pip install streamlit
+streamlit run prompt_ui.py
+pip install pytorch
+pip install torch
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121`
+
+streamlit run prompt_ui.py
+echo "# Langchain" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Langchain.git`
+git push -u origin main
+git add .
+git commit -m "langchain"
+git push
+git status
+git .\LLMs\
+git add .\LLMs\llm_demo.py
+git commit -m "LLMs"
+git push
+rmdir /s /q .git`
+
+del .gitignore .gitattributes
+cd .\Desktop\confused\lang-chain\
+del .gitignore .gitattributes
+rmdir /s /q .git
+Remove-Item -Recurse -Force .git
+git status
+clear
+echo "# Langchain" >> README.md`
+git init`
+git add .\LLMs\llm_demo.py`
+git commit -m "LLMs"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Langchain.git`
+git push -u origin main
+git add .\ChatModels\chatmodel_hf_api.py
+git commit -m "hf-api"
+git push
+git add .\ChatModels\chatmodel_hf_local.py
+git commit -m "hf-local"
+git push
+git push --set-upstream origin main`
+
+git pull
+git push
+cleat
+clear
+git push
+ git push --set-upstream origin main
+git pull
+git pull https://github.com/ijassandhu/Langchain main
+git push
+  git push --set-upstream origin main`
+
+git pull
+cd .\Desktop\confused\lang-chain\
+Remove-Item -Recurse -Force .git
+cd .\Desktop\confused\lang-chain\
+Remove-Item -Recurse -Force .git
+cd .\Desktop\confused\lang-chain\
+Remove-Item -Recurse -Force .git
+git status
+clear
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+echo "# Langchain" >> README.md`
+git init`
+git add .\ChatModels\chatmodel_hf_api.py`
+git commit -m "hf-api"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Langchain.git`
+git push -u origin main
+git add .\ChatModels\chatmodel_hf_local.py
+git commit -m "hf-local"
+git push
+git add .\LLMs\llm_demo.py
+git commit -m "LLMs"
+git push
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+python .\Langchain_prompts\prompt_generater.py
+python .\Langchain_prompts\prompt_generater.py
+streamlit run prompt_ui.py
+streamlit run .\Langchain_prompts\prompt_ui.py
+cd .\Langchain_prompts\
+streamlit run prompt_ui.py
+cd ..
+.\venv\Scripts\activate
+streamlit run .\Langchain_prompts\prompt_ui.py
+python .\chatbot\chatbot.py
+clear
+python .\chatbot\chatprompt_template.py
+git add .\Langchain_prompts\prompt_ui.py
+git commit -m "prompt ui"
+git add .\Langchain_prompts\prompt_generater.py
+git commit -m "prompt generator"
+git push
+pip install pydantic
+python -u "c:\Users\91623\Desktop\confused\lang-chain\structured_output\pydantic_demo.py"
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'selectionSort.exe'
+cd 'c:\Users\91623\Desktop\confused\DSA (code)\Folder\Array\output'
+& .\'selectionSort.exe'
+cd ..
+git add .\selectionSort.cpp
+git commit -y "selection sort"
+git commit -m "selection sort"
+git push
+& "C:/Program Files/Python310/python.exe" c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\91623\.vscode\extensions\ms-python.python-2025.10.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+python -u "c:\Users\91623\Desktop\confused\lang-chain\structured_output\typeddict_demo.py"
+cd .\venv\Scripts\
+activate
+cd .\venv\Scripts\activate
+ .\venv\Scripts\activate
+cd ../..
+.\venv\Scripts\activate
+clear
+python .\main.py
+clear
+python .\main.py
+cd .\Lentit\
+npm start
+npm run dev
+cd .\venv\Scripts\activate
+cd .\venv\Scripts\
+activate
+cd .. /
+cd ..
+cd..
+npm run dev
+cd .\Lentit\
+npm run dev
+cd ../..
+ls
+ckear
+clear
+python test.py
+clear
+python test.py
+clear
+python test.py
+clear
+python test.py
+clear
+python test.py
+clear
+python test.py
+clear
+python test.py
+clear
+python test.py
+cd .\Desktop\
+python test.py]
+python test.py
+curl
+curl 'https://graph.facebook.com/v17.0/771044726090789/messages' \
+-H 'Content-Type: application/json' \
+-H 'Authorization: Bearer EAAVOnRhWfboBPZA4snI5eZA75NLQnNa6gDZBYJeP8MRv7qFKOddilXjjy1cxDlKZCeV1CnjNCNjZARhGbc10muQYx8EfmJPWX6Lu5TDBo8b92L1oO1LVWcnFBa9or3SZAFaDGHyiHd9wy26D6WEB5XGmH8cDo7lbv9ZBSOHbYzhSgKHAyNIxK09GSEMYvShD8XXJZB85mjrTQdZCubdZBm6hCFyeCCcqLZBsv422KLZBNLHqZBZB0ZD' \
+clear
+ds .py
+python ds.py
+cleat
+clear
+python ds.py
+python day1task,py
+python day1task.py
+& C:/Python313/python.exe
+python day1task.py
+python .\calculator.py
+python '.\day2(Numpy)\1.py'
+pythn '.\day2(Numpy)\assignment.py'
+python '.\day2(Numpy)\assignment.py'
+cd '.\day2(Numpy)\'
+node .\main.js
+ngrok
+clear
+ngrok
+clear
+ngrok http 3000
+clear
+ngrok http 3000
+ngrok http 3000
+node .\main.js
+clear
+node .\main.js
+clear
+node .\main.js
+clear
+node .\main.js
+clear
+node .\main.js
+clear
+node .\main.js
+clear
+node .\main.js
+clear
+node .\main.js
+clear
+node .\main.js
+clear
+node .\main.js
+clear
+node .\main.js
+git add .\portfolio\Frontend\src\components\SkillsSection.tsx
+cd .\portfolio\
+git add .\Frontend\src\components\SkillsSection.tsx
+git commit -m "n8n"
+git push
+python '.\day1(Overview)\ds.py'
+cd '.\day1(Overview)\'
+python .\day1task.py
+cd '.\day1(Overview)\'
+python .\day1task.py
+clear
+cd .. 
+cd '.\day2(Numpy)\'
+python .\1.py
+python .\test.py
+python .\assignment2.py
+python .\assignment3.py
+cd .\slicing\
+python .\matrixslice.py
+python .\practice.py
+python .\challenge.py
+python .\challenge2.py
+cd '.\day2(Numpy)\'
+python .\challenge2.py
+cd .\slicing\
+python .\challenge2.py
+python .\booleanIndexing.py
+cd ..
+cd '.\day3(pandas)\'
+pip install pandas
+python .\series.py
+clear
+python .\series.py
+python .\practice.py
+python .\pandas.py
+python .\pandas1.py
+clear
+python .\pandas1.py
+cd '.\day3(pandas)\'
+python .\pandas1.py
+clear
+python .\pandasPrac.py
+clear
+python .\pandasPrac.py
+python .\pandasPractice.py
+cd ..
+git init
+git add '.\day1(Overview)\'
+git commit -m "overview"
+git branch -M main
+git remote add origin https://github.com/ijassandhu/Python.git
+git push
+git remote add origin https://github.com/ijassandhu/Python.git
+git push -u origin main
+git add '.\day2(Numpy)\'
+git commit -m "numpy"
+git push
+python '.\day3(pandas)\sorting.py'
+git add '.\day3(pandas)\pandas1.py'
+git commit -m "pandas"
+git push
+python '.\day3(pandas)\sorting.py'
+python '.\day3(pandas)\sortingPrac7.py'
+clear
+cd '.\day3(pandas)\'
+python .\MissingData8.py
+cd ..
+cd '.\day4(AdvancedPandas)\'
+python .\groupby1.py
+cd '.\day4(AdvancedPandas)\'
+python .\prac2.py
+python .\practice3.py
+cd ..
+git add '.\day3(pandas)\pandas1.py'
+git commit -m "pandas"
+git add '.\day3(pandas)\pandas1.py'
+git commit -m "pandas"
+git add '.\day3(pandas)\pandas1.py'
+git add '.\day3(pandas)\pandasPrac2.py'
+git commit -m "prac"
+git push
+cd '.\day4(AdvancedPandas)\'
+python .\practice4.py
+python .\multiagg5.py
+cd ..
+cd '.\day5(concat,merge,join)\'
+python .\concat1.py
+python .\merge2.py
+clear
+python .\join3.py
+cd '.\day5(concat,merge,join)\'
+python .\practice4.py
+cd '.\day6(matplotlib)\'
+pip install matplotlib
+python .\basics1.py
+cd '.\day6(matplotlib)\'
+python .\basics1.py
+python .\scatter2.py
+clear
+python .\bar3.py
+git add '.\day3(pandas)\pandasPractice3.py'
+git commit -m "practice"
+git add '.\day3(pandas)\practiceSeries5.py'
+git commit -m "practice"
+git add '.\day3(pandas)\series4.py'
+git commit -m "practice"
+git add '.\day3(pandas)\sorting6.py'
+git commit -m "sorting"
+git push
+cd '.\day6(matplotlib)\'
+python .\sidebar4.py
+cd '.\day6(matplotlib)\'
+python .\sidebar4.py
+python .\stackedBar.py
+python .\pieChart.py
+git clone https://github.com/ijassandhu/harmeet-ninjas-design-hub.git
+npm i
+npm run dev
+cd .\harmeet-ninjas-design-hub\
+npm i
+npm run dev
+git add .
+git commit -m "minor changes"
+git push
+git add .
+git commit -m "updated images"
+git push
+git add .
+git commit -m "year correction"
+git push
+git add .
+git commit -m "text"
+git push
+cd .\harmeet-ninjas-design-hub\
+git add .
+git commit -m "change in mail"
+git push
+npm run dev
+git add .
+git commit -m "change in mail"
+git push
+ clear
+python .\advance01.py
+cd '.\day6(matplotlib)\'
+python .\annotations.py
+clear
+cd ..
+git add '.\day3(pandas)\'
+git commit -m "pandas"
+git push
+cd '.\day6(matplotlib)\'
+python .\subplots.py
+clear
+python .\subplots2.py
+python .\3dscatterplot.py
+python .\3DPlots.py
+python .\heatmap.py
+clear
+python .\heatmap.py
+cd ..
+cd '.\day4(AdvancedPandas)\'
+git add .\groupby1.py
+git commit -m "group function"
+git add .\prac2.py
+git commit -m "group function"
+git add .\practice3.py
+git commit -m "practice"
+git add .\multiagg5.py
+git commit -m "multi aggregations"
+git add .\practice4.py
+git commit -m "prac"
+git push
+cd ..
+cd '.\day7(seaborn)\'
+pip install seaborn
+pip install plotly
+python .\relationalplot1.py
+clear
+python .\relationalplot1.py
+cd '.\day7(seaborn)\'
+python .\relationalplot1.py
+python .\facetplot2.py
+python .\titanicData.py
+cd '.\day5(concat,merge,join)\'
+git add .\concat1.py
+git commit -m "concatination"
+git push
+pip install mysql.connector
+CD '.\DataGathering&Analysis\'
+python .\sql.py
+cd '.\DataGathering&Analysis\'
+python .\moviesdf.py
+clear
+python .\moviesdf.py
+netsh winsock reset
+netsh int ip reset
+netsh winsock reset
+ipconfig /flushdns
+clear
+ping api.themoviedb.org
+ping - api.themoviedb.org
+ping -4 api.themoviedb.org
+netsh advfirewall set allprofiles state off
+ping -4 api.themoviedb.org
+netsh advfirewall set allprofiles state on
+curl https://49.44.79.236
+ping -4 api.themoviedb.org
+ping -6 api.themoviedb.org
+clear
+cd '.\DataGathering&Analysis\'
+python .\moviesdf.py
+clear
+python .\moviesdf.py
+pip install BeautifulSoup
+pip install bs4
+python .\moviesdf.py
+cd ..
+cd '.\Webscraping(demo)\'
+python .\webscraping.py
+pip install lxml
+python .\webscraping.py
+clear
+python .\webscraping.py
+clear
+python .\webscraping.py
+clear
+python .\webscraping.py
+clear
+python .\webscraping.py
+clear
+python .\webscraping.py
+cd ..
+git add '.\day5(concat,merge,join)\'
+git commit -m "operations"
+git push
+clear
+cd '.\Webscraping(demo)\'
+python .\indeed.py
+clear
+python .\indeed.py
+cd ..
+cd '.\Dataccessing&cleaning\'
+python .\data.py
+clear
+python .\data.py
+pip install openpyxl
+python .\data.py
+cd '.\Dataccessing&cleaning\'
+python .\data.py
+git add '.\day6(matplotlib)\'
+git commit -m "matplotlib"
+git push
+cd '.\Dataccessing&cleaning\'
+python .\datacleaning_practice.py
+conda list
+git add '.\day7(seaborn)\'
+git commit -m 
+git commit -m "seaborn"
+npm init playwrite@latest
+npm -y init
+npm init playwrite@latest
+npm init playwright@latest
+ npx playwright test
+npx playwright show_report
+npx playwright show-report
+clear
+node .\tests\new_test.js
+npx playwright .\tests\new_test.js
+netstat -a -n | findstr "3307"
+netstat -a -n | findstr "3306"
+netstat -ano | findstr :3307
+netstat -ano | findstr :3306
+taskkill /PID 6360 /F
+netstat -ano | findstr :3306
+taskkill /PID 6640 /F
+pip install mysql.connector
+pip install cursor
+pip install streamlit
+streamlit run app.py
+cd .\flights_data\
+streamlit run app.py
+clear
+streamlit run app.py
+clear
+streamlit run app.py
+cd .\flights_data\
+streamlit run app.py
+cd .\flights_data\
+streamlit run app.py
+clear
+streamlit run app.py
+cd .\flights_analysis\
+streamlit run app.py
+pip run test.py
+python run test.py
+python test.py
+python app.py
+python test.py
+cd .\flights_analysis\
+pip install python-dotenv
+cd .\flights_analysis\
+pip install kaggle
+ pip install python-dotenv
+python test.py
+CD .\flights_analysis\
+python test.py
+kaggle dataset list
+kaggle datasets list
+kaggle datasets download -d sriharshaeedala/airline-delay
+python extract.py
+python app.py
+streamlit run app.py
+CD .\flights_analysis\
+python test.py
+streamlit run app.py
+cd backend
+npm init -y
+cd .\backend\
+npm install -D jest supertest nodemon`
+
+npx prisma init
+npx prisma migrate dev --name init`
+
+nom install dotenv
+npm install dotenv
+npx prisma migrate dev --name init`
+
+npm uninstall prisma @prisma/client`
+
+npm install prisma@6.14.0 @prisma/client@6.14.0`
+
+npx prisma migrate dev --name init`
+
+cd .\src\
+mkdir routes
+cd .\routes\
+touch  auth.routes.js
+cd ..
+mkdir controllers
+cd .\controllers\
+touch  auth.controller.js
+cd ..
+mkdir middleware
+cd .\middleware\
+touch auth.middleware.js
+cd  ..
+mkdir utils
+cd .\utils\
+touch jwt.js
+node server.js`
+
+cd ..
+node server.js`
+
+clear
+node server.js`
+
+npm install brypt
+npm uninstall bcrypt`
+
+npm install bcryptjs`
+
+node server.js`
+
+node server.js`
+
+tree /f`
+
+node server.js`
+
+clear
+node server.js`
+
+clear
+node server.js`
+
+clear
+node server.js`
+
+clear
+node server.js`
+
+git init
+clear
+git status
+cd backend
+ls
+git add backend/
+cd ..
+clear
+git add backend
+clear
+git status
+clear
+git status
+git init
+clear
+git status
+git add backend
+git status
+clear
+git rm --cached .\backend\server.js
+git status
+git status "feat: init project and db"
+git status
+git commit -m "feat: init project and db"
+git status
+git add .\backend\server.js
+git status
+git add .\backend\src\
+git status
+git restore --staged .\backend\src\
+clear
+git status
+git logs
+git log
+git add .\backend\tests\
+git remote add origin https://github.com/ijassandhu/Sweet-Shop.git
+git push -u origin main
+git add .\backend\tests\auth.test.js
+git commit -m "test: add failing authentication tests (RED)"
+git add .\backend\tests\sweets.test.js
+git commit -m "test: add failing sweet tests (RED)"
+git push
+git status
+git add .\backend\src\prisma.js
+git commit -m "feat: add Prisma"
+git add .\backend\src\utils\jwt.js
+git commit -m "feat: add utils"
+node server.js`
+
+cd .\backend\
+node server.js`
+
+cd ..
+git add .\backend\server.js
+git commit -m "server config"
+git add .\backend\src\routes\
+git commit -m "feat: add auth route structure and controller"
+git add .\backend\src\controllers\
+git commit -m "add controllers"
+git add .\backend\src\middleware\
+git commit -m "feat: add authentication and authorization middleware"
+git add .\backend\prisma\schema.prisma
+git commit -m "feat: add Prisma schema definition for User and Sweet models"
+git push
+git commit -m "feat: add Prisma schema definition for User and Sweet models"
+git add .\backend\package.json
+git commit - m "config"
+git commit -m "config"
+cd .\frontend\
+npm run dev
+npm init
+npm -y init
+npm run dev
+npm install -D @tailwindcss/postcss`
+
+npm run dev
+npm run dev
+git add .\frontend\package-lock.json
+git add .\frontend\postcss.config.js
+git add .\frontend\tailwind.config.js
+git add .\frontend\tsconfig.json
+git add .\frontend\vite.config.js
+git add .\frontend\public\
+git commit -m "initialize React app with Vite and Tailwind setup"
+git add .\frontend\src\style.css
+git add .\frontend\src\main.jsx
+git add .\frontend\src\App.jsx
+git commit -m "add global styles, fonts, and base application layout"
+git add .\frontend\src\routes\
+git add .\frontend\src\api\
+git commit -m "feat: add client-side routing and API service layer"
+git add .\frontend\src\context\
+git commit -m "feat: implement authentication context and state management"
+git add .\frontend\src\components\
+git commit -m "feat:add reusable UI components for navigation and sweets display"
+git add .\frontend\src\pages\
+git commit -m "feat:implement dashboard and admin management pages"
+git add .
+git commit -m "minor changes"
+git push
+cd .\backend\
+node server.js
+node server.js`
+
+cd ..
+mkdir rankai
+cd rankai
+clear
+ls
+git config --global --unset credential.helper
+git
+clear
+git -v
+clear
+git config --global --unset credential.helper
+git git config --global user.name
+git config --global user.name
+git config --global --get credential.helper
+git config --system --get credential.helper
+git config --system --unset credential.helper
+clear
+git config --system --unset credential.helper
+git config --global user.name
+git pull
+clear
+git clone https://github.com/RankaiHQ/rankai.git
+git login
+ckear
+clear
+git --help
+git config --global --unset user.name
+git config --global --unset user.email
+git config --global --unset credential.helper
+git config --global --unset-all
+git config --global --unset credential.helper
+clear
+git config --global user.name
+clear
+git status
+git init
+git login
+clear
+git clone https://github.com/RankaiHQ/rankai.git
+clear
+git clone https://github.com/RankaiHQ/rankai.git
+git login
+git status
+git init
+clear
+git clone 18F6-57C1
+git clone https://github.com/RankaiHQ/rankai.git
+clear
+git fetch
+clear
+git fetch
+clear
+git init
+git fetch
+cleqar
+clear
+git clone https://github.com/RankaiHQ/rankai.git
+git config --global credential.helper store
+ssh -T git@github.com
+git config --global --unset credential.helper
+git clone https://github.com/RankaiHQ/rankai.git
+git config --global --unset user.name
+git config --global --unset user.email
+clear
+git clone https://github.com/RankaiHQ/rankai.git
+git config --global --unset user.email
+git clone https://github.com/RankaiHQ/rankai.git
+git init
+clear
+prkr
+clear
+touch
+touch test > "pp`
+"
+touch test
+git add .
+git commit -m "test"
+git config --global user.email "Jaskeerat"
+git config --global user.name "Jaskeerat"
+git commit -m "test"
+git push
+git remote -v
+clear
+ssh-add -D
+git fetch
+ssh -T git@github.com
+git config --list --show-origin | findstr credential
+git config --list --show-origin | findstr credential.helper
+git remote -v
+git push
+git remove -v
+git status
+git clone https://github.com/metaladmiral/epostal
+ git clone https://github.com/metaladmiral/epostal
+Cloning into 'epostal'...
+clear
+git config --system --unset credential.helper
+git config --list --show-origin | findstr credential
+clear
+git config --list --show-origin | findstr credential
+git clone https://github.com/metaladmiral/epostal
+clear
+ssh -T git@github.com
+clear
+git credential-manager-core erase
+git credential reject
+git config --global --list
+git config --global user.name "Your New Name"
+git config --global user.email "newemail@example.comgit config --global user.name "Your New Name""
+git config --global user.name "Your New Name"
+git config --global user.name "metaladmiral"
+clear
+clear
+git clone https://github.com/metaladmiral/epostal
+git config --global credential.helper
+clear
+git status
+cd rankai
+clear
+git status
+clear
+git config --global user.name
+git config --global user.email
+clear
+touch .env
+clear
+npm i
+npm install tsx
+clear
+clear
+git status
+git branch
+clear
+clear
+git status
+git stash pop
+clear
+git reset --hard HEAD~1
+clear
+clear
+clear
+clear
+git status
+git add . 
+git push
+clear
+npx tsx .\scripts\additionalInputStream1.ts
+clear
+npx tsx .\scripts\additionalInputStream1.ts
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream1.ts
+clear
+npx tsx .\scripts\additionalInputStream1.ts
+clear
+npx tsx .\scripts\additionalInputStream1.ts
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream2.ts
+npx tsx .\scripts\additionalInputStream2.ts
+clear
+npx tsx .\scripts\additionalInputStream1.ts
+git status
+git add .
+git commit -m "additional streams"
+git push
+clear
+git switch main
+clear
+git pull
+clear
+git status
+git add .\trigger\
+git status
+git commit -m "fix: improved trigger machine for dashboard-warmup and added retry in auto publish task"
+git push
+git status
+git add .\trigger\
+git commit -m "Fix: build issue in auto publish trigger"
+git push
+cd .\flights_analysis\
+python .\app.py
+clear
+streamlit run .\app.py
+cd .\flights_data\
+streamlit run .\app.py
+cd .\flights_analysis\
+pip install matplotlib
+cd .\flights_analysis\
+streamlit run .\app.py
+cd .\flights_analysis\
+streamlit run .\dashboard.py
+python -m venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt
+python .\test.py
+python .\2.ChatModels\4_chatmodel_hf_api.py
+pip .\venv\Scripts\activate
+.\venv\Scripts\activate
+python .\2.ChatModels\4_chatmodel_hf_api.py
+pip install torch
+python .\2.ChatModels\4_chatmodel_hf_api.py
+clear
+python .\2.ChatModels\4_chatmodel_hf_api.py
+python .\2.ChatModels\4_chatmodel_hf_local.py
+python .\2.ChatModels\5_chatmodel_hf_local.py
+python -c "import torch; print(torch.cuda.is_available())"
+# 1. Remove the CPU version`
+pip uninstall torch torchvision torchaudio -y`
+`
+# 2. Install the GPU version (for CUDA 12.1 - standard for most new PCs)`
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+python --version
+pip install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu121
+python --version
+py -3.12 -m venv venv_gpu
+.\venv_gpu\Scripts\activate
+python .\2.ChatModels\5_chatmodel_hf_local.py
+pip install -r requirements.txt
+python .\2.ChatModels\5_chatmodel_hf_local.py
+pip install torch
+python .\2.ChatModels\5_chatmodel_hf_local.py
+python --version
+python -c "import torch; print(f'CUDA Available: {torch.cuda.is_available()}'); print(f'GPU Count: {torch.cuda.device_count()}')"
+# 1. Wipe the old CPU version`
+pip uninstall torch torchvision torchaudio -y`
+`
+# 2. Install the GPU-enabled version`
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+python .\2.ChatModels\5_chatmodel_hf_local.py
+.\venv\Scripts\activate
+python .\2.ChatModels\5_chatmodel_hf_local.py
+python --version
+py --list`
+
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\2.ChatModels\5_chatmodel_hf_local.py
+python .\3.EmbeddedModels\3_embedding_hf_local.py
+pip install sentence-transformers
+python .\3.EmbeddedModels\3_embedding_hf_local.py
+clear
+python .\3.EmbeddedModels\3_embedding_hf_local.py
+python .\2.ChatModels\4_chatmodel_hf_api.py
+python .\3.EmbeddedModels\4_document_similarity.py
+clear
+python .\3.EmbeddedModels\4_document_similarity.py
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+.\3.EmbeddedModels\4_document_similarity.py
+python .\3.EmbeddedModels\4_document_similarity.py
+python .\4.LangchainPrompts\1.prompts_ui.py
+pip install streamlit
+streamlit run .\4.LangchainPrompts\1.prompts_ui.py
+python .\4.LangchainPrompts\prompt_generator.py
+py 3.12
+python --version
+python --list
+python list
+python -list
+py --list`
+
+py 3.12
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\4.LangchainPrompts\1.prompts_ui.py
+clear
+streamlit run .\4.LangchainPrompts\1.prompts_ui.py
+python .\4.LangchainPrompts\chatbot.py
+dHI
+CLEAR
+python .\4.LangchainPrompts\chatbot.py
+python .\4.LangchainPrompts\message_placeholder.py
+py 3.12
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\5.Structured_output\with_Structured_output.py
+python .\2.ChatModels\4_chatmodel_hf_api.py
+pip install pydantic
+pydantic --version
+clear
+python .\5.Structured_output\1.pydantic.py
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\5.Structured_output\with_structured_output_pydantic.py
+clear
+python .\5.Structured_output\with_structured_output_pydantic.py
+python .\5.Structured_output\hf.st.py
+clear
+python .\5.Structured_output\2.sequential_chain.py
+clear
+python .\5.Structured_output\2.sequential_chain.py
+pip install grandalf
+python .\5.Structured_output\2.sequential_chain.py
+python .\5.Structured_output\3.parallel_chain.py
+clear
+python .\5.Structured_output\4.conditional_chain.py
+clear
+python .\5.Structured_output\4.conditional_chain.py
+clear
+python .\5.Structured_output\4.conditional_chain.py
+clear
+python .\5.Structured_output\4.conditional_chain.py
+clear
+python .\5.Structured_output\4.conditional_chain.py
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\5.Structured_output\4.conditional_chain.py
+pip install grandalf
+python .\5.Structured_output\4.conditional_chain.py
+clear
+python .\5.Structured_output\4.conditional_chain.py
+clear
+python .\5.Structured_output\4.conditional_chain.py
+python -u "c:\Users\91623\Desktop\confused\LANGCHAIN\test.py"
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\test.py
+pip install langchain-text-spillters
+clear
+pip install -U langchain-text-splitters
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+pip install -U langchain-text-splitters
+python .\6.TextSplitter\length_based.py
+clear
+python .\6.TextSplitter\length_based.py
+pip install langchain-community pypdf
+python .\6.TextSplitter\length_based.py
+python .\TextSplitter\length_based.py
+clear
+python .\TextSplitter\length_based.py
+python .\6.TextSplitter\length_based.py
+clear
+python .\6.TextSplitter\length_based.py
+clear
+python .\6.TextSplitter\length_based.py
+clear
+python .\6.TextSplitter\length_based.py
+pip install google_auth_oauthlib.flow
+pip install google-auth-oauthlib`
+
+python .\6.TextSplitter\length_based.py
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\6.TextSplitter\length_based.py
+clear
+python .\6.TextSplitter\length_based.py
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\6.TextSplitter\length_based.py
+clear
+python .\6.TextSplitter\length_based.py
+clear
+pip install chromadb
+clear
+pip install langchain-chroma
+python .\7.Chroma\chromaDB.py
+cleat
+clear
+python .\7.Chroma\chromaDB.py
+clear
+python .\7.Chroma\chromaDB.py
+clear
+python .\7.Chroma\chromaDB.py
+clear
+python .\7.Chroma\chromaDB.py
+clear
+python .\7.Chroma\chromaDB.py
+clear
+python .\7.Chroma\chromaDB.py
+py -3.13
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\7.Chroma\chromaDB.py
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\2.ChatModels\3_chatmodel_gemini.py
+python .\7.Chroma\retrivers.py
+py -3.12
+python --version
+py -3.12
+.\venv\Scripts\activate
+py 3.12
+py -3.12
+py -0
+py -3.12
+.\venv_gpu\Scripts\activate
+python .\7.Chroma\retrivers.py
+clear
+python .\7.Chroma\retrivers.py
+clear
+python .\7.Chroma\retrivers.py
+pip install openpyxl python-dotenv google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+python .\email_sender.py
+clear
+python .\email_sender.py
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+git clone https://github.com/Rakshithagoud28/PDF-ChatBot.git
+python .\PDF-ChatBot\app.py
+streamlit run app.py
+pip install streamlit
+pip install faiss
+pip install faiss
+pip install faiss-cpu
+python .\7.Chroma\mmr_retriver.py
+clear
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\7.Chroma\mq_retriever.py
+CLEAR
+python .\7.Chroma\mq_retriever.py
+clear
+python .\7.Chroma\mq_retriever.py
+clear
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\7.Chroma\mq_retriever.py
+clear
+py -3.12
+python -m venv venv
+.\venv\Scripts\activate
+python .\RAG\indexing.py
+clear
+python .\RAG\indexing.py
+clear
+python .\RAG\indexing.py
+clear
+python .\RAG\indexing.py
+cleat
+clear
+python .\RAG\indexing.py
+clear
+python .\RAG\indexing.py
+clear
+python .\RAG\indexing.py
+clear
+python .\RAG\indexing.py
+clear
+python .\RAG\indexing.py
+clear
+python .\RAG\tools.py
+clear
+python .\RAG\tools.py
+py -3.12
+.\venv\Scripts\activate
+python .\RAG\tools.py
+cleat
+clear
+python .\RAG\tools.py
+echo "# Youtube-Chatbot" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Youtube-Chatbot.git`
+git push -u origin main
+git config --global user.name`
+git config --global user.email
+git config --global user.name "ijassandhu"`
+git config --global user.email "jaskeeratsingh219@gmail.com"
+git config --global user.name`
+git config --global user.email
+clear
+git add .\RAG\chatbot.py
+git commit -m "chatbot"
+git push
+clear
+pip install -q langchain-community langchain-core requests duckduckgo-search
+py -3.12
+py -3.12 -m venv venv
+pip install -q langchain-community langchain-core requests duckduckgo-search
+.\venv\Scripts\activate
+pip install -q langchain-community langchain-core requests duckduckgo-search
+pip install langchain_google_genai
+clear
+python .\agents.py
+pip install ddgs
+clear
+python .\agents.py
+clear
+python .\agents.py
+clear
+python .\agents.py
+py -3.12
+.\venv\Scripts\activate
+python .\agents.py
+pip install langchain
+python .\agents.py
+langchain --version
+clear
+python .\agents.py
+pip install langchain-classic
+python .\agents.py
+pip install -U langchain langchainhub
+pip show langchain
+pip install langchainhub
+python .\agents.py
+clear
+python .\agents.py
+py -3.12
+.\venv\Scripts\activate
+pip install langchain langchain-community langchain-google-genai langchain-classic langchain-core python-dotenv requests duckduckgo-search
+python --version
+clear
+python .\agents.py
+pip install -U langchain`
+
+python .\agents.py
+pip install langchainhub`
+
+clear
+python .\agents.py
+python -m pip show langchain
+python -m pip install langchainhub
+clear
+python -m pip list
+python .\agents.py
+python --version
+pip show langchain
+python .\agents.py
+clear
+python .\agents.py
+pip install langchain langchain-community langchain-huggingface faiss-cpu
+py -3.12
+py -3.12 -m venv venv
+.\venv\Scripts\activate
+py .\memory.py
+pip install langchain_community
+py .\memory.py
+cd ..
+py .\memory.py
+py .\Medical_chatbot\memory.py
+cd .\Medical_chatbot\
+py .\memory.py
+pip install pypdf
+py .\memory.py
+clear
+py .\memory.py
+clear
+py .\memory.py
+pip install langchain_huggingface
+py .\memory.py
+clear
+py .\memory.py
+clear
+Error:'Document' object has no attribute 'replace'
+py .\memory.py
+clear
+py .\memory.py
+clear
+py .\memory.py
+clear
+py .\memory.py
+clear
+pip install faiss-cpu
+py .\memory.py
+clear
+py .\memory.py
+clear
+py .\memory.py
+clear
+py .\memory.py
+py -3.12 
+C:/Users/91623/anaconda3/Scripts/activate
+conda activate base
+clear
+.\venv\Scripts\activate
+py .\memory.py
+clear
+python .\memory_with_llm.py
+py -3.12 
+C:/Users/91623/anaconda3/Scripts/activate
+conda activate base
+.\venv\Scripts\activate
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+pip install sentence-transformers
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+pip install -U langchain-huggingface
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+clear
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+python .\2.ChatModels\4_chatmodel_hf_api.py
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+clear
+pip exit
+.\venv\Scripts\deactivate.bat
+deactivate
+pip install streamlit
+streamlit run .\analysis.py
+pip install streamlit
+streamlit run .\analysis.py
+streamlit run .\analysis.py
+py -31.2
+py- 3.12
+py -3.12
+C:/Users/91623/anaconda3/Scripts/activate
+conda activate base
+conda activate base
+python -m venv venv
+.\venv\Scripts\activate
+streamlit run .\analysis.py
+pip install streamlit
+streamlit run .\analysis.py
+pip install matplotlib
+streamlit run .\analysis.py
+streamlit run .\analysis.py
+.\venv\Scripts\activate
+python .\memory_with_llm.py
+echo "# Medibot" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/Medibot.git`
+git push -u origin main
+deactivate
+pip install streamlit
+git add .\memory.py
+git commit -m "added memory"
+git push
+py -3.12
+C:/Users/91623/anaconda3/Scripts/activate
+conda activate base
+clear
+.\venv\Scripts\activate
+streamlit run .\Medibot.py
+pip install streamlit
+streamlit run .\Medibot.py
+python .\memory_with_llm.py
+clear
+python .\memory_with_llm.py
+streamlit run .\Medibot.py
+py -3.12
+C:/Users/91623/anaconda3/Scripts/activate
+conda activate base
+conda config --set auto_activate_base false
+where conda
+conda config --set auto_activate_base false
+clear
+.\venv\Scripts\activate
+streamlit run .\Medibot.py
+clear
+streamlit run .\Medibot.py
+C:/Users/91623/anaconda3/Scripts/activate
+conda activate base
+git add .\memory_with_llm.py
+git commit -m "attached llm"
+git push
+py -3.12
+& C:/Users/91623/Desktop/confused/LANGCHAIN/venv_gpu/Scripts/Activate.ps1
+py -3.12
+C:/Users/91623/anaconda3/Scripts/activate
+conda activate base
+.\venv\Scripts\activate
+streamlit run .\Medibot.py
+C:/Users/91623/anaconda3/Scripts/activate
+conda activate base
+git add .\Medibot.py
+git commit -m "interface"
+git add .\files\
+git commit -m "encyclopedia"
+git add .\images\
+git commit -m "images"
+git commit -m ".\vectorstore\"
+git push
+git commit -m ".\vectorstore\"
+git add .\vectorstore\
+git commit -m "vector db"
+git add .
+git push
+git add .
+git commit -m "minor changes"
+git push
+git add .\Medibot.py
+git commit -m "logo"
+git push
+git add requirements.txt`
+git commit -m "fix dependencies for deployment"`
+git push
+git add requirements.txt`
+git commit -m "fix langchain-huggingface dependency"`
+git push
+git add .`
+git commit -m "auto rebuild FAISS index if incompatible"`
+git push
+git push
+git pull
+clear
+git add .
+git commit -m "added separators"
+git push
+git pull origin main --rebase
+git push
+clear
+python .\memory.py
+pip install pypdf sentence-transformers
+python .\memory.py
+git add .\vectorstore\
+git commit -m "rebuild faiss index"
+git push
+git add .
+git commit -m "variable fix"
+git push
+clear
+git rm -r vectorstore/db/faiss`
+git commit -m "remove incompatible faiss index"`
+git push
+git add .\memory.py
+git commit -m "memory"
+git push
+python .\memory.py
+git add .\vectorstore\
+git commit - "rebuild vector db"
+git commit -m "rebuild vector db"
+git push
+git add .
+git commit -m "db issue solved"
+git push
+.\venv\Scripts\activate
+streamlit run .\Medibot.py
+C:/Users/91623/anaconda3/Scripts/activate
+conda activate base
+git add .\memory_with_llm.py
+git commit -m "rebuild vector db"
+git push
+git add .\memory_with_llm.py
+git commit -m "added rcts"`
+
+git push
+git add .\memory_with_llm.py
+git push
+git add .\memory.py
+git push
+git add .\memory_with_llm.py
+git commit -m "fixing llm issue"
+git push
+pip insrall groq
+pip install groq
+python -m venv venv
+.\venv\Scripts\activate
+& C:/Python313/python.exe
+.\venv\Scripts\activate
+python .\Brain.py
+pip install groq
+python .\Brain.py
+pip install dotenv
+python .\Brain.py
+clear
+python .\Brain.py
+clear
+python .\Brain.py
+python .\venv\Scripts\activate
+.\venv\Scripts\activate
+clear
+python .\Brain.py
+clear
+python .\Brain.py
+clear
+python .\Brain.py
+clear
+.\venv\Scripts\activate
+python .\2.ChatModels\3_chatmodel_gemini.py
+pip install pytorch
+clear
+pip install -U langchain-google-genai
+python .\2.ChatModels\3_chatmodel_gemini.py
+python .\2.ChatModels\3_chatmodel_gemini.py
+ffmpeg -version
+.\venv\Scripts\activate
+ffmpeg -version
+ffmpeg -version
+clear
+pip install pipwin
+pipwin install pyaudio
+pipwin --version
+clear
+python -m pip install pipwin
+pipwin install pyaudio
+clear
+python -m pipwin install pyaudio
+pip show pipwin
+py -3.12
+.\venv\Scripts\activate
+pip show pipwin
+pip install pipwin
+python -m pipwin install pyaudio
+pipwin --version
+clear
+pipwin --version
+pip show pipwin
+clear
+pip install speechrecognition pydub
+clear
+echo "# AIVA" >> README.md`
+git init`
+git add README.md`
+git commit -m "first commit"`
+git branch -M main`
+git remote add origin https://github.com/ijassandhu/AIVA.git`
+git push -u origin main
+clear
+pip install speechrecognition
+.\venv\Scripts\activate
+python .\patient_voice.py
+pip install pyaudio
+python .\patient_voice.py
+git add .\patient_voice.mp3
+git commit -m "voice to text"
+git push
+.\venv\Scripts\activatea
+.\venv\Scripts\activate
+python .\patient_voice.mp3
+pip install -r requirements.txt
+python .\patient_voice.mp3
+pip install pydub
+pip install speechrecognition
+python .\patient_voice.mp3
+clear
+.\venv\Scripts\activate
+python .\patient_voice.mp3
+python .\patient_voice.py
+.\venv\Scripts\activate
+python .\patient_voice.py
+pip install gtts
+.\venv\Scripts\activate
+python --version
+pip install gtts
+python .\doctor_voice.py
+pip install elevenlabs
+python .\doctor_voice.py
+clear
+python .\doctor_voice.py
+pip install playsound
+pip install pygame
+python .\doctor_voice.py
+pip install gradio
+python .\gradio_app.py
+clear
+python .\gradio_app.py
+clear
+python .\gradio_app.py
+.\venv\Scripts\activate
+python .\gradio_app.py
+python .\test.py
+python .\gradio_app.py
+& "C:/Users/91623/Desktop/A.I Project/AIVA/venv/Scripts/Activate.ps1"
+cd c:/Users/91623/Desktop/A.I Project/AIVA && python -c "print('Code fixes completed successfully')"
+python -c "print('Code fixes completed')"
+pip install pipdeptree
+pipdeptree
+pip list
+clear
+pip install pipreqs
+pipreqs .
+python .\gradio_app.py
+git add .\patient_voice.py
+git commit -m "patient voice"
+git add ".\doctor_voice.py"
+git commit -m "doctor's voice"
+git push
+git add .\Brain.py
+git commit -m "image analysis"
+git add .\app.py
+git commit -m "application"
+git push
+git add .\requirements.txt
+git commit -m "requirements file"
+git push
+.\venv\Scripts\activate
+streamlit run .\test.py
+.\venv\Scripts\activate
+python .\Medibot.py
+streamlit run .\Medibot.py
+git clone https://github.com/openclaw/openclaw.git`
+cd openclaw
+python -m venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt
+pip install google-generativeai
+npm install
+docker compose up
+mkdir config`
+mkdir workspace
+deactivate
+.\venv\Scripts\activate
+docker compose up
+npm install
+npm run dev
+npm install -g pnpm
+pnpm install
+ clear
+pnpm dev
+node -v
+ nvm install 20
+.\venv\Scripts\activate
+nvm install 20
+node -v
+nvm use 20
+nvm list
+cd .\openclaw\
+.\venv\Scripts\activate
+nvm use 20
+node -v
+pnpm dev
+node -v
+pnpm dev
+clear
+pnpm exec openclaw setup
+clear
+node scripts/run-node.mjs setup
+node scripts/run-node.mjs configure
+node scripts/run-node.mjs gateway
+node scripts/run-node.mjs dashboard
+node scripts/run-node.mjs gateway
+python --version
+python -v
+python --version
+python -0
+python -o
+py -0
+py -o
+py -0
+python3.8 --version
+py -3.8 --version
+git --version
+cd .\odoo\
+git clone https://www.github.com/odoo/odoo --depth 1 --branch 13.0
+py -3.8 -m pip install --upgrade pip
+py -3.8 -m pip install wheel
+py -3.8 -m pip install -r requirements.txt
+cd odoo 
+py -3.8 -m pip install -r requirements.txt
+py -3.8 -m pip install Pillow==8.4.0
+py -3.8 -m pip install -r requirements.txt
+py -3.8 -m pip install --only-binary :all: Pillow==8.4.0
+py -3.8 -m pip install -r requirements.txt
+clear
+py -3.8 -m pip --version
+py -3.8 -m pip install Pillow==8.3.2
+py -3.8 -m pip show Pillow
+py -3.8 -m pip install -r requirements.txt
+docker --version
+docker compose version
+cd .\odoo-n8n-stack\
+docker compose up -d
+docker compose down
+cd .\odoo-n8n-stack\
+cd ..
+docker compose down
+docker ps
+docker
+openclaw start
+openclaw gateway run
+cd .\openclaw\
+openclaw gateway run
+node scripts/run-node.mjs gateway
+node scripts/run-node.mjs gateway3
+node scripts/run-node.mjs gateway
+node scripts/run-node.mjs configure
+node scripts/run-node.mjs gateway
+node scripts/run-node.mjs configure
+node scripts/run-node.mjs gateway
+cd .\openclaw\
+.\venv\Scripts\activate
+node scripts/run-node.mjs configure
+node scripts/run-node.mjs gateway
+node scripts/run-node.mjs configure
+node scripts/run-node.mjs gateway
+node scripts/run-node.mjs configure
+node scripts/run-node.mjs gateway
+pip install streamlit openai
+streamlit run app.py
+python -m venv venv
+.\venv\Scripts\activate
+pip install streamlit openai
+streamlit run app.py
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+npx --yes create-vite@latest ./ --template react
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+npm install react-router-dom lucide-react framer-motion
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+npm run dev
+node C:\Users\91623\Desktop\OpenClaw\openclaw\openclaw.mjs agent --help
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+cd C:\Users\91623\Desktop\OpenClaw\openclaw; node openclaw.mjs agent --help
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+cd C:\Users\91623\Desktop\OpenClaw\openclaw; node openclaw.mjs agent --help > C:\Users\91623\Desktop\EOXS\Task\openclaw-help.txt
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Get-Content C:\Users\91623\Desktop\EOXS\Task\openclaw-help.txt -Encoding Unicode
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+mkdir backend
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+npm init -y
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+npm install express cors
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node server.js
+curl -X POST http://localhost:3001/api/process-orders -H "Content-Type: application/json" -d "{""orders"":[{""id"":""raw-01"",""cust"":""John"",""items"":""1x iPhone, 2x Charger"",""time"":""now""}]} "
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+$body = @{ orders = @( @{ id = "raw-01"; cust = "John"; items = "1x iPhone, 2x Charger"; time = "now" } ) } | ConvertTo-Json; Invoke-RestMethod -Uri 'http://localhost:3001/api/process-orders' -Method Post -ContentType 'application/json' -Body $body
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node C:\Users\91623\Desktop\OpenClaw\openclaw\openclaw.mjs agent --message "Respond exactly with {\"hello\": \"world\"}" --json
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+node C:\Users\91623\Desktop\OpenClaw\openclaw\openclaw.mjs agent --message "Respond exactly with {\"hello\": \"world\"}" --json
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+node C:\Users\91623\Desktop\OpenClaw\openclaw\openclaw.mjs agent --help
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+cmd.exe /c "node C:\Users\91623\Desktop\OpenClaw\openclaw\openclaw.mjs agent --help > C:\Users\91623\Desktop\EOXS\Task\backend\help.txt"
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node C:\Users\91623\Desktop\OpenClaw\openclaw\openclaw.mjs agent --to +15555550123 --message "Respond exactly with {\"hello\": \"world\"}" --json
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node C:\Users\91623\Desktop\OpenClaw\openclaw\openclaw.mjs agent --to +15555550123 --message "hello" --json
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+npm install multer pdf-parse
+npm install multer pdf-parse
+node server.js
+node server.js
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+npm install pdfkit
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node create_pdf.js
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+npm install form-data node-fetch --save-dev
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node test_upload.mjs
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node -e "console.log(require('pdf-parse'))"
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+npm install pdf-parse@1.1.1
+npm install pdf-parse@1.1.1
+node server.js
+node server.js
+node test_upload.mjs
+node test_upload.mjs
+node server.js
+node server.js
+node test_upload.mjs
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node create_pdf.js
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node test_upload.mjs
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Invoke-RestMethod -Uri "http://127.0.0.1:18789/" -Method Get
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+grep -r "router.post.*agent" C:\Users\91623\Desktop\OpenClaw\openclaw\dist
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Invoke-RestMethod -Uri "http://127.0.0.1:18789/api/agent" -Method Post -ContentType "application/json" -Body "{""message"": ""test""}"
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node test_endpoints.cjs
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Invoke-RestMethod -Uri "http://127.0.0.1:18789/__openclaw/control-ui-config.json" -Method Get
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Invoke-RestMethod -Uri "http://127.0.0.1:18789/api/v1/chat/completions" -Method Post -ContentType "application/json" -Body '{"messages": [{"role": "user", "content": "hello"}]}'
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Invoke-RestMethod -Uri "http://127.0.0.1:18789/act" -Method Post -ContentType "application/json" -Body '{}'
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node -c server.js
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node server.js
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node test_upload.mjs
+npm run dev
+cd .\openclaw\
+.\venv\Scripts\activate
+node scripts/run-node.mjs gateway
+node scripts/run-node.mjs gateway
+Get-Content c:\Users\91623\Desktop\EOXS\Task\openclaw-help.txt | Out-String
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node test_endpoints.cjs
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node server.js
+node test_upload.mjs
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+node -e "console.log(require('fs').readFileSync('openclaw-help.txt', 'utf16le'))"
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Get-NetTCPConnection -LocalPort 18789
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node test_endpoints.cjs
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Get-Process -Id (Get-NetTCPConnection -LocalPort 18789).OwningProcess
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+node -e "fetch('http://127.0.0.1:18789/').then(r=>r.text()).then(console.log)"
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+node c:\Users\91623\Desktop\EOXS\Task\openclaw\openclaw.mjs --help
+cd 'c:\Users\91623\Desktop\EOXS\Task\backend'
+node test_upload.mjs
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Get-Process -Id (Get-NetTCPConnection -LocalPort 18789).OwningProcess | Stop-Process -Force
+cd 'c:\Users\91623\Desktop\EOXS\Task\openclaw'
+node scripts/run-node.mjs gateway
+cd 'c:\Users\91623\Desktop\EOXS\Task\openclaw'
+npm run gateway:dev
+cd 'c:\Users\91623\Desktop\EOXS\Task\openclaw'
+$env:OPENCLAW_SKIP_CHANNELS=1; $env:CLAWDBOT_SKIP_CHANNELS=1; node scripts/run-node.mjs --dev gateway
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Get-Content "$env:APPDATA\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt" -Tail 50
+cd 'c:\Users\91623\Desktop\EOXS\Task'
+Get-Content "$env:APPDATA\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt" > c:\Users\91623\Desktop\EOXS\Task\backend\history.txt

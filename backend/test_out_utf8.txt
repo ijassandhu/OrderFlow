@@ -1,0 +1,10 @@
+﻿Sending JSON to backend...
+Success! Backend responded with:
+{
+  "success": true,
+  "data": {
+    "results": [],
+    "alerts": [],
+    "issues": []
+  }
+}
